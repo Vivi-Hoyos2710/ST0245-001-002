@@ -1,11 +1,7 @@
 import os
-""" from csv import reader """
 def cargar(directorio,imagen,formato):
     print("cargando "+imagen)
-    """ with open(directorio+imagen, 'r') as csv_file:
-        csv_reader = reader(csv_file)
-        list_of_rows = list(csv_reader)
-        print("imagen de " + str(len(list_of_rows))+ " x "+ str(len(list_of_rows[0]))) """
+
 
     reader = open(directorio+imagen, 'r')
     rows=reader.readlines()
