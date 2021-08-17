@@ -1,11 +1,9 @@
+#ADVERTENCIA: El codigo lo habiamos puesto en el repositorio antes de organizarlo en la carpeta correspondiente, al ponerlo en la carpeta código no corre, pero por fuerande ella si (la parte principal del repositorio). 
+#Problemas al correr en visual studio code.
 import os
-""" from csv import reader """
 def cargar(directorio,imagen,formato):
-    print("cargando "+imagen)
-    """ with open(directorio+imagen, 'r') as csv_file:
-        csv_reader = reader(csv_file)
-        list_of_rows = list(csv_reader)
-        print("imagen de " + str(len(list_of_rows))+ " x "+ str(len(list_of_rows[0]))) """
+    print("cargando "+imagen+"como formato "+formato)
+  
 
     reader = open(directorio+imagen, 'r')
     rows=reader.readlines()
