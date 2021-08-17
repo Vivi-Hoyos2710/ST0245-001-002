@@ -1,6 +1,6 @@
 import os
 def cargar(directorio,imagen,formato):
-    print("cargando "+imagen)
+    print("cargando "+imagen+" desde "+formato)
 
 
     reader = open(directorio+imagen, 'r')
@@ -19,8 +19,10 @@ def guardar():
 def comprimir():
     print("metodo por realizar")
 
-os.chdir("C:/Users/almah/Documents/GitHub/Estructura_Datos/Código/datasets/csv/")
-directorio = "enfermo_csv/"
+ubicacion = os.getcwd()
+print("Esta es "+ubicacion)
+os.chdir(ubicacion)
+directorio = "datasets/csv/enfermo_csv/"
 
 lista_imagenes = os.listdir(directorio)
 
