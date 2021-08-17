@@ -27,3 +27,12 @@ lista_imagenes = os.listdir(directorio)
 for imagen in lista_imagenes:
     matriz_imagen=cargar(directorio,imagen,'csv')
     print("imagen de " + str(len(matriz_imagen))+ " x "+ str(len(matriz_imagen[0])))
+
+os.chdir("C:/Users/almah/Documents/GitHub/Estructura_Datos/Código/datasets/csv/")
+directorio = "sano_csv/"
+
+lista_imagenes = os.listdir(directorio)
+
+for imagen in lista_imagenes:
+    matriz_imagen=cargar(directorio,imagen,'csv')
+    print("imagen de " + str(len(matriz_imagen))+ " x "+ str(len(matriz_imagen[0])))
