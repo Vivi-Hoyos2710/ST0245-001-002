@@ -24,7 +24,7 @@ def comprimir():
     print("metodo por realizar")
 
 
-directorio = 'codigo/datasets/csv/enfermo_csv/'
+directorio = 'codigo/datasets/csv/enfermo_csv/'#carpeta de los animales enfermos
 
 lista_imagenes = os.listdir(directorio)
 
@@ -32,7 +32,7 @@ for imagen in lista_imagenes:
     matriz_imagen=cargar(directorio,imagen,'csv')
     print("imagen de " + str(len(matriz_imagen))+ " x "+ str(len(matriz_imagen[0])))
 
-directorio = 'codigo/datasets/csv/sano_csv/'
+directorio = 'codigo/datasets/csv/sano_csv/'#carpeta de los animales sanos
 
 lista_imagenes = os.listdir(directorio)
 
