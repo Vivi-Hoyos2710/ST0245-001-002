@@ -1,16 +1,12 @@
 #ADVERTENCIA: El codigo lo habiamos puesto en el repositorio antes de organizarlo en la carpeta correspondiente, al ponerlo en la carpeta código no corre, pero por fuerande ella si (la parte principal del repositorio). 
 #Problemas al correr en visual studio code.
 import os
+import numpy as np
 def cargar(directorio,imagen,formato):
     print("cargando "+imagen+"como formato "+formato)
-  
-
     reader = open(directorio+imagen, 'r')
-    rows=reader.readlines()
-    matriz_imagen=[]
-    for i in rows:
-        matriz_imagen.append(i.split(','))
-    return matriz_imagen
+    Numpy=np.loadtxt(reader, delimiter=",")
+    return Numpy
 
 
 
