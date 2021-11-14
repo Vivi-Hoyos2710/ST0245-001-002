@@ -1,0 +1,2 @@
+nombreImagen,tamanyoOriginal,tEjecucionSeam,tEjecucionRun, tComprimido,totalComprimido
+01cowburps-promo-mediumSquareAt3X-v2.csv,10906170,766.811642408371,8.850091218948364,4724936,6181234
