@@ -1,0 +1,3 @@
+nombreImagen:tiempo:memoria
+ImagenComprimida0.csv:2.403991937637329:3.87109375
+ImagenComprimida00000004_66324407_ver1.csv:2.371997356414795:4.08984375
