@@ -1,0 +1,653 @@
+nombreImagen:tiempo:memoria
+ImagenComprimida0,csv:1,6577060222625732:0,046875
+ImagenComprimida00000004_66324407_ver1,csv:1,6040170192718506:0,0
+ImagenComprimida0397768d-9068-4b65-8e3a-945c69c75d9a_1140x641,csv:1,009397268295288:-0,953125
+ImagenComprimida04be43ab919b6b22d950d3b59834f4a1 (1),csv:1,2461609840393066:0,00390625
+ImagenComprimida04be43ab919b6b22d950d3b59834f4a1 (2),csv:1,2444000244140625:0,0
+ImagenComprimida04be43ab919b6b22d950d3b59834f4a1,csv:1,6784272193908691:0,0
+ImagenComprimida052611_0838_mastitispar5 (1),csv:1,2143936157226562:0,0
+ImagenComprimida052611_0838_mastitispar5,csv:1,586707592010498:0,0
+ImagenComprimida053111_1344_traceelemen3,csv:1,562427282333374:0,0
+ImagenComprimida053111_1344_traceelemen9,csv:1,6269035339355469:0,0
+ImagenComprimida053111_1401_skinconditi11,csv:1,598586082458496:0,01953125
+ImagenComprimida053111_1401_skinconditi5,csv:1,6251249313354492:0,01953125
+ImagenComprimida053111_1401_skinconditi7,csv:1,2257249355316162:0,0
+ImagenComprimida053111_1401_skinconditi9,csv:0,8631200790405273:37,5859375
+ImagenComprimida060f0530-e0e9-407d-88c8-7c3e806059ba-medium16x9_GladwinCountyanimal,csv:0,9131832122802734:0,0
+ImagenComprimida0801mn24_6388697_835x547-m,csv:0,8886210918426514:0,046875
+ImagenComprimida0b36076259d99722b2ec4b0cc663b971,csv:1,083496332168579:11,30078125
+ImagenComprimida1 (1),csv:1,2258632183074951:0,00390625
+ImagenComprimida1 (2),csv:1,6153299808502197:0,0
+ImagenComprimida1,csv:1,6459274291992188:0,0
+ImagenComprimida10048758-16x9-xlarge,csv:0,9148955345153809:0,0234375
+ImagenComprimida10264372-6743315-Calves_and_their_mothers_eat_a_small_amount_of_hay_and_appear_vi-a-4_1551193281957,csv:0,8724980354309082:0,0
+ImagenComprimida10514703_730498246986060_5976539923316036790_n,csv:0,9666173458099365:0,08984375
+ImagenComprimida10936182-3x2-xlarge,csv:0,9607112407684326:0,01171875
+ImagenComprimida10936268-3x2-xlarge,csv:0,9316494464874268:0,00390625
+ImagenComprimida10959964-3x2-xlarge,csv:0,9718279838562012:0,0
+ImagenComprimida10Illustration_10-3_Cobalt_in_Cattle_Wasting_Disease,csv:1,741513967514038:0,0
+ImagenComprimida11-0,csv:0,8934025764465332:0,0
+ImagenComprimida11-Figure1-1,csv:0,8954758644104004:0,0
+ImagenComprimida110980928-grazing-skinny-cows-on-top-of-a-mountain (1),csv:1,7798314094543457:0,0
+ImagenComprimida110980928-grazing-skinny-cows-on-top-of-a-mountain,csv:1,670952558517456:0,0
+ImagenComprimida110980933-grazing-skinny-cows-on-top-of-a-mountain,csv:1,6932313442230225:0,0
+ImagenComprimida11777982-3x4-large,csv:0,9713833332061768:0,0
+ImagenComprimida117958566_51f75a675b_z,csv:1,3037264347076416:0,0
+ImagenComprimida119896227,csv:1,7099716663360596:0,0
+ImagenComprimida12,csv:0,948012113571167:0,0
+ImagenComprimida1200x0,csv:1,0943238735198975:0,01953125
+ImagenComprimida12745959_img20201126120116_jpeg1aed0320a5dea0f4df850df73378dbf2,csv:1,1115012168884277:0,03125
+ImagenComprimida12745961_img20201126120120_jpeg56308e1c03a077cbb622ed12713ba45b,csv:1,0832080841064453:0,02734375
+ImagenComprimida12745962_img20201126120122_jpege80bf384443fe2ccfb6c6b89991b65a4,csv:1,1185400485992432:0,00390625
+ImagenComprimida131854-cow-pti,csv:0,9175705909729004:0,0
+ImagenComprimida140225_117,csv:0,9214186668395996:0,0
+ImagenComprimida15055075-attending-sick-cow-in-rivera-department-of-huila-colombia,csv:0,6796276569366455:0,00390625
+ImagenComprimida15055080-attending-sick-cow-in-rivera-department-of-huila-colombia,csv:0,7265815734863281:0,0
+ImagenComprimida15055137-attending-sick-cow-in-rivera-department-of-huila-colombia,csv:0,7102344036102295:0,00390625
+ImagenComprimida151021-Cow-photo,csv:1,0831372737884521:0,01171875
+ImagenComprimida1554348108-new-zealand-australian-cattle-sri-lanka,csv:0,9021916389465332:0,0
+ImagenComprimida1592267697975 (1),csv:0,9613394737243652:0,0
+ImagenComprimida1592267697975,csv:1,1285178661346436:0,16796875
+ImagenComprimida1602733303863,csv:0,9767980575561523:0,0
+ImagenComprimida160802vaca-300x158,csv:1,6656999588012695:0,0
+ImagenComprimida16567360-7292289-image-a-1_1564229873738,csv:0,9320275783538818:0,0
+ImagenComprimida1989-Press-Photo-Malnourished-cattle-at-Southwest-Livestock,csv:1,7330200672149658:0,0
+ImagenComprimida1998087,csv:1,688469648361206:0,0
+ImagenComprimida1warts2-2905wk-17,csv:1,6605935096740723:0,0
+ImagenComprimida20030509img0002,csv:1,1285057067871094:3,26953125
+ImagenComprimida200418_p102_103_SUO_JE_230412F021_Main,csv:1,15309476852417:-0,0234375
+ImagenComprimida20141021_TR_SG_23_Interexpres_RO-CJ83GDF_sick-cow-4-250x187,csv:1,6360483169555664:0,0
+ImagenComprimida201902asia_india_photo0,csv:0,7194366455078125:1,73828125
+ImagenComprimida21beef-inline1-650,csv:1,3329746723175049:0,03125
+ImagenComprimida2283532+X158_03E1_9,csv:1,0299761295318604:-1,08984375
+ImagenComprimida23358644,csv:1,181201696395874:0,00390625
+ImagenComprimida246c349d2bee630686f4d9509986398f0d637385,csv:1,7286314964294434:0,0
+ImagenComprimida2584,csv:1,7901816368103027:0,0
+ImagenComprimida26URNU2S5NS3A26MEN7KZKI6DU,csv:1,0716884136199951:0,0
+ImagenComprimida271017_p110_skin_diseases_80313F100_Main,csv:1,1299927234649658:0,0
+ImagenComprimida271017_p110_skin_diseases_SkinCattleNonParasitic_9_Main (1),csv:1,0431265830993652:0,00390625
+ImagenComprimida271017_p110_skin_diseases_SkinCattleNonParasitic_9_Main,csv:1,0732085704803467:0,00390625
+ImagenComprimida28india-superJumbo,csv:0,9241795539855957:6,421875
+ImagenComprimida3-s2,csv:1,4598429203033447:-16,44140625
+ImagenComprimida3000,csv:1,6773524284362793:58,14453125
+ImagenComprimida300x200-calf-rug,csv:1,7459914684295654:0,22265625
+ImagenComprimida3027309968_c8d7626265,csv:1,2968716621398926:1,2265625
+ImagenComprimida3028,csv:1,720245599746704:0,00390625
+ImagenComprimida3393179531_a84968d945,csv:0,9985487461090088:1,08984375
+ImagenComprimida3524939513_02dbf59834_z,csv:0,9161255359649658:1,2578125
+ImagenComprimida3525741186_b8cd8659a8_b,csv:0,9590017795562744:7,20703125
+ImagenComprimida360_F_242734494_WenyhHS4oAm1pGIXQ4cV4kZdZ9SYNkXk,csv:0,9375286102294922:0,01953125
+ImagenComprimida3bcbf0b9-7075-4013-869f-cc6aef379e48-IMG_0074,csv:1,0167627334594727:1,5234375
+ImagenComprimida446CED86-156B-43B0-86DC-5B4FCD222E48,csv:1,2985272407531738:42,66796875
+ImagenComprimida4A70946400000578-5532035-image-a-14_1521734172729,csv:1,712681770324707:-0,01953125
+ImagenComprimida4C07C035-F824-4D20-9700-25B487785677 (1),csv:1,291466236114502:59,26171875
+ImagenComprimida4C07C035-F824-4D20-9700-25B487785677,csv:1,2575106620788574:75,94140625
+ImagenComprimida500_F_188150568_v9yueiLn9sNCHbX6b79xCZGyVM6tjTpU,csv:1,2871580123901367:0,03125
+ImagenComprimida500_F_94428663_B2muG0aRhCYw8WfAKVVPCyYMeD82ynuz (1),csv:0,9036657810211182:0,01171875
+ImagenComprimida500_F_94428663_B2muG0aRhCYw8WfAKVVPCyYMeD82ynuz,csv:0,8982763290405273:0,00390625
+ImagenComprimida52125899-cows-in-thailand-skinny-sick-cows-close-up-eye (1),csv:1,1827526092529297:5,26953125
+ImagenComprimida52125899-cows-in-thailand-skinny-sick-cows-close-up-eye,csv:1,2221198081970215:3,17578125
+ImagenComprimida53dd295e786d6,csv:1,6856725215911865:0,046875
+ImagenComprimida5453592-16x9-700x394,csv:0,9207327365875244:0,015625
+ImagenComprimida5453592-3x2-940x627,csv:1,0048024654388428:-0,87109375
+ImagenComprimida55357262-98e9-42d0-9377-ce23d67f01ba_1140x641,csv:1,1917784214019775:0,0546875
+ImagenComprimida5a5596b5200000980c57d4e9,csv:0,9343459606170654:-0,00390625
+ImagenComprimida5a9dd5cb1a8a6,csv:0,9052045345306396:0,0
+ImagenComprimida5b807ececea98,csv:0,8724749088287354:0,0
+ImagenComprimida5b982f5090bb4,csv:0,9732742309570312:0,0
+ImagenComprimida5c68aba0e8dc5,csv:0,7043361663818359:0,0546875
+ImagenComprimida657e6ccc92ee255053fb447993320ffc,csv:0,9840054512023926:-0,0078125
+ImagenComprimida6905943210_2561e60004_z,csv:1,0440621376037598:0,0
+ImagenComprimida6ZD76RPJ3W4UTHJIBRY3XDFCPU,csv:1,0549671649932861:0,0
+ImagenComprimida711iZd6HgvL,csv:1,2887048721313477:0,0
+ImagenComprimida73e32ab40a8a4d45acf61a9ae01eeccd_large,csv:1,0609347820281982:0,0078125
+ImagenComprimida78052430,csv:1,6873760223388672:0,0
+ImagenComprimida78330496,csv:1,308013916015625:0,0
+ImagenComprimida7cb82c0014b8da7dd271a076fd11263f,csv:0,6996991634368896:0,078125
+ImagenComprimida82855c70-9bbb-461a-b1b0-db6eb89ba170-large3x4_malnourishedcow,csv:1,012538194656372:5,25
+ImagenComprimida845f7ed0-119d-11ea-bfe6-bca87c619f2a,csv:0,6608200073242188:0,1171875
+ImagenComprimida89EA1FC1-F45B-4903-8CF3-BB93A4D31D27,csv:1,247041940689087:7,375
+ImagenComprimida9111258-sick-animal-with-signs-of-severe-malnutrition,csv:1,174194097518921:4,97265625
+ImagenComprimida9306453732_5878c253c4_z,csv:0,902026891708374:0,0078125
+ImagenComprimidaa-thin-cow-in-the-fields-near-the-phnom-chhnork-caves-near-kampot-in-cambodia-2ARATH3 (1),csv:0,6595091819763184:0,0
+ImagenComprimidaa-thin-cow-in-the-fields-near-the-phnom-chhnork-caves-near-kampot-in-cambodia-2ARATH3,csv:0,6511201858520508:0,00390625
+ImagenComprimidaa-thin-cow-looking-for-food-in-the-wilderness-of-the-great-thar-desert-BM6GGX,csv:1,0460219383239746:5,078125
+ImagenComprimidaaa1adeeec7144c69bfd2e2a383ed01b3,csv:0,9731578826904297:0,015625
+ImagenComprimidaab8ff65b2ad75781387e5975bc94887f,csv:1,3013052940368652:52,0390625
+ImagenComprimidaabandoned-sick-cow5,csv:0,8966057300567627:0,0
+ImagenComprimidaabscess-neck-goat-veterinary-medicine-animal-diseases-veterinarian-sheep-cow-veterinarian-surgery-pathology-abscess-193389222,csv:1,0237550735473633:0,0
+ImagenComprimidaafrican-cow-260nw-925149 (1),csv:1,3898954391479492:0,0
+ImagenComprimidaafrican-cow-260nw-925149 (2),csv:1,3698153495788574:0,0
+ImagenComprimidaafrican-cow-260nw-925149,csv:0,9161539077758789:0,0
+ImagenComprimidaagriculture-animal-sick-cow-portrait-beef-meat-milk-kine-agriculture-animal-sick-cow-portrait-beef-meat-milk-kine-158434864,csv:0,9486503601074219:0,0
+ImagenComprimidaamber_1596109318,csv:1,097121000289917:4,49609375
+ImagenComprimidaanimal-born-defect-260nw-280722536,csv:1,3103382587432861:0,0
+ImagenComprimidaanimal-warts-on-cattle,csv:0,9706935882568359:0,046875
+ImagenComprimidaAphis,csv:0,7489347457885742:8,89453125
+ImagenComprimidaap_16154477626917_29611610_ver1,csv:1,8085036277770996:-0,0234375
+ImagenComprimidaAR-161109571,csv:0,924236536026001:0,0
+ImagenComprimidaAR-305209922,csv:0,9876277446746826:0,0
+ImagenComprimidaAR-605211480,csv:1,0216853618621826:0,00390625
+ImagenComprimidaattending-sick-cow-in-rivera-department-of-huila-colombia-cwtpcf,csv:0,9396471977233887:0,0
+ImagenComprimidaattending-sick-cow-in-rivera-department-of-huila-colombia-CWTPCR,csv:1,3561255931854248:8,90234375
+ImagenComprimidaattending-sick-cow-in-rivera-department-of-huila-colombia-CWTPFP,csv:0,7460191249847412:0,0
+ImagenComprimidaattending-sick-cow-in-rivera-department-of-huila-colombia-CWTPJG,csv:0,6810157299041748:-8,1015625
+ImagenComprimidaAtulSarin_Body2,csv:1,0177760124206543:0,4140625
+ImagenComprimidaayrshire-cow-swollen-jaw-isolated-260nw-34411060,csv:1,6874449253082275:0,0
+ImagenComprimidaB60C2AC2-977C-45E3-BA77-92C964F28387,csv:1,095632553100586:5,19140625
+ImagenComprimidaB9781416031376500107_gr3,csv:1,7920947074890137:0,0078125
+ImagenComprimidaB9781416031376500107_gr4 (1),csv:1,7318079471588135:0,0
+ImagenComprimidaB9781416031376500107_gr4,csv:1,3017137050628662:0,0
+ImagenComprimidaB9781416031376500107_gr9,csv:1,7640385627746582:0,0
+ImagenComprimidabagan-mandalay-region-myanmar-august-260nw-1849661545,csv:1,3242075443267822:0,0
+ImagenComprimidaBCS-2-Virginia-Cooperative-Extension,csv:0,9058432579040527:0,0
+ImagenComprimidaBCS-3-Virginia-Cooperative-Extension,csv:1,3305079936981201:0,0
+ImagenComprimidaBCS-4-Virginia-Cooperative-Extension,csv:1,3255198001861572:0,0
+ImagenComprimidaBCS-9-Virginia-Cooperative-Extension,csv:1,320965051651001:0,0
+ImagenComprimidabeautiful-brown-cow-grazing-wild-grass-hoian-vietnam-89266794,csv:1,0613863468170166:0,05078125
+ImagenComprimidablack-angus-young-bull-sick-260nw-555441301,csv:1,365999460220337:0,00390625
+ImagenComprimidablog_2_-_5,csv:1,1436786651611328:0,08984375
+ImagenComprimidabody-skinny-cow-farm-260nw-1134347561,csv:1,8016297817230225:0,04296875
+ImagenComprimidaBodyConditionScore3 (1),csv:1,4305930137634277:0,0
+ImagenComprimidaBodyConditionScore3,csv:1,4196739196777344:0,0
+ImagenComprimidaBodyConditionScore4,csv:1,7685279846191406:0,0
+ImagenComprimidaBodyConditionScore6,csv:1,3926920890808105:0,0
+ImagenComprimidaBovine_Warts-268x300,csv:1,7876477241516113:0,0
+ImagenComprimidabrown-cow-16513776,csv:1,0633080005645752:0,01171875
+ImagenComprimidabrown-cow-horn-combs-edge-cliff-19291307,csv:1,1193673610687256:0,00390625
+ImagenComprimidabrown-sick-cow-standing-field-260nw-1157826748,csv:1,8901891708374023:0,0
+ImagenComprimidabundycow1,csv:0,9339616298675537:0,0
+ImagenComprimidaBuskirk_Wart,csv:1,6956710815429688:0,0
+ImagenComprimidaButchers-dragging-a-sick-cow-to-the-slaughter-yard-for-slaughtering,csv:1,3787128925323486:0,0
+ImagenComprimidaC-fe6qeUwAAAazP,csv:1,0935544967651367:10,515625
+ImagenComprimidaC2xmCmWWQAI-gzM,csv:1,0760409832000732:0,0
+ImagenComprimidaC6tGAjXU4AEFnJy,csv:1,1595497131347656:8,6640625
+ImagenComprimidaC6tGAjYV0AA2NDq,csv:1,00993013381958:0,140625
+ImagenComprimidacalf-suckle-lactate-cow-feeding-260nw-1416953309,csv:1,7132458686828613:0,12109375
+ImagenComprimidacattle_fever_sick,csv:1,7341930866241455:0,0
+ImagenComprimidaCattle_Vaccination_-_Action_Against_Hunger_Kenya_0,csv:1,037437915802002:0,0234375
+ImagenComprimidaCaYF4Y1W0AAzSFd,csv:1,0525104999542236:0,01171875
+ImagenComprimidaCCA_26-11-2014_FRONT_PAGE_01_EDIT_Coffs 2_t1880,csv:1,1319055557250977:0,0
+ImagenComprimidacegrab-20151210-092732-356-1_3499293,csv:0,9628868103027344:0,0078125
+ImagenComprimidaCJN1Y4rUwAAfDcb,csv:1,0663559436798096:0,0078125
+ImagenComprimidackp-f201901241083501,csv:1,057232141494751:0,0
+ImagenComprimidaclose-up-of-a-syringe-in-the-hand-of-a-veterinarian-who-is-ready-to-make-a-injection-to-a-cow-2DM3AEK,csv:1,0800650119781494:6,5
+ImagenComprimidaclose-up-old-black-white-cow-chain-lying-down-meadow-animal-protection-concept-copy-space-close-up-old-black-white-146548022,csv:1,1093840599060059:0,24609375
+ImagenComprimidacloseup-skinny-brown-long-horns-260nw-1464646679,csv:1,3772258758544922:0,15625
+ImagenComprimidaclost_dead-cattle,csv:0,9464659690856934:0,0
+ImagenComprimidacow (1),csv:1,7249078750610352:0,0
+ImagenComprimidaCow-1170x666 (1),csv:1,0471394062042236:-0,00390625
+ImagenComprimidaCow-1170x666,csv:1,0432960987091064:0,0
+ImagenComprimidaCow-Calf-herd-fig2,csv:1,7513716220855713:0,0
+ImagenComprimidaCow-Calf-Herds-fig1,csv:1,6962013244628906:0,0
+ImagenComprimidacow-eating-garbage-in-the-streets-of-jaipur-rajasthan-india-EB25KJ,csv:1,2439818382263184:2,92578125
+ImagenComprimidacow-eating-garbage-in-the-streets-of-jaipur-rajasthan-india-EB25KX,csv:1,2223498821258545:3,1328125
+ImagenComprimidacow-extra-leg-its-back-animal-born-abnormality-cow-extra-leg-its-back-111981497,csv:1,022859811782837:0,00390625
+ImagenComprimidacow-extra-leg-its-back-cow-extra-leg-its-back-animal-born-abnormality-111980636,csv:0,9951541423797607:0,0
+ImagenComprimidacow-eye-with-flies-JXN457,csv:1,267380952835083:15,46484375
+ImagenComprimidacow-lay-on-the-ground-in-the-grass-animal-distracted-by-flies-M9DHRF,csv:1,131946325302124:5,1484375
+ImagenComprimidacow-looking-you-photo-farm-ranch-171771835,csv:1,7977476119995117:0,00390625
+ImagenComprimidacow-nature-winter-park-110449922,csv:1,0119147300720215:0,04296875
+ImagenComprimidacow-on-beach-750x510,csv:1,3335916996002197:0,0
+ImagenComprimidacow-see-camera-watch-indian-look-grazing-baby-pasture-agriculture-meadow-calf-food-countryside-animal-green-graze-meat-161180111,csv:0,9256279468536377:0,0
+ImagenComprimidacow-sick-veterinarians-middle-green-260nw-1157826763,csv:1,7073309421539307:0,00390625
+ImagenComprimidacow-skinny,csv:0,9614272117614746:0,0
+ImagenComprimidacow-sleeps-under-tree-in-the-open-air-selective-focus-close-up-2D2R7CY,csv:1,3070697784423828:6,0
+ImagenComprimidacow-zanzibar-tanzania-slim-89169863,csv:1,2042193412780762:5,73828125
+ImagenComprimidacow-zanzibar-tanzania-slim-89169877,csv:0,6615176200866699:0,14453125
+ImagenComprimidacow,csv:1,1607871055603027:0,25390625
+ImagenComprimidacow6,csv:0,9147012233734131:0,00390625
+ImagenComprimidaCOWS+2,csv:1,2633404731750488:0,0
+ImagenComprimidacows-sick-cows-sick-veterinarians-middle-field-108761907,csv:1,0740211009979248:0,0078125
+ImagenComprimidacows-sick-veterinarians-middle-field-260nw-1010799976,csv:1,2706835269927979:0,00390625
+ImagenComprimidacows-sick-veterinarians-middle-field-260nw-1010799994,csv:1,723721981048584:0,0
+ImagenComprimidacows-sick-veterinarians-middle-field-260nw-1010800033,csv:1,2972347736358643:0,0
+ImagenComprimidacows-sick-veterinarians-middle-field-260nw-1010800039,csv:1,2781484127044678:0,0
+ImagenComprimidacows-sick-veterinarians-middle-field-cows-sick-108761938,csv:1,1047027111053467:0,07421875
+ImagenComprimidacows-snowy-mountains-carpathians-ukraine-260nw-554362315,csv:1,693340539932251:0,0
+ImagenComprimidacow_on_Burys_Bank_Road_1-1598974155901,csv:1,0852978229522705:-0,015625
+ImagenComprimidacow_with_trypanosomiasis_at_nguruman_kenya,csv:0,9543247222900391:0,0
+ImagenComprimidacrystalyx-thin-cows-595x335px-1016,csv:1,160843849182129:6,21875
+ImagenComprimidacsm_wratten_713687e8d5,csv:0,9741864204406738:0,08984375
+ImagenComprimidaD-KqKkVU4AEUi83,csv:1,0756518840789795:0,015625
+ImagenComprimidaD7y6hsOXoAAivqt,csv:0,9530882835388184:0,0
+ImagenComprimidaD7_gFHtUIAA6iww,csv:1,0703356266021729:2,1640625
+ImagenComprimidaDairy-Farmers-Care-for-Cows_AMK-1,csv:1,0375149250030518:0,0078125
+ImagenComprimidaDairyFarm_Taiwan_JMcArthur_2019-5816,csv:0,68971848487854:2,78125
+ImagenComprimidadead-cow-360x2691,csv:1,7483532428741455:0,1796875
+ImagenComprimidadead-dying-cow-fake-plastic-260nw-12431161,csv:1,6770269870758057:0,0
+ImagenComprimidaDecalf-and-his-bros,csv:1,342679500579834:0,0
+ImagenComprimidadepositphotos_11830253-stock-photo-skinny-calf,csv:0,9889748096466064:0,0
+ImagenComprimidadepositphotos_11983369-stock-photo-indian-bull,csv:1,1289148330688477:-0,00390625
+ImagenComprimidadepositphotos_12477917-stock-photo-photo-calf-close-up-in,csv:1,1823327541351318:1,140625
+ImagenComprimidadepositphotos_13879708-stock-photo-brown-cow,csv:1,097365140914917:0,12109375
+ImagenComprimidadepositphotos_13879712-stock-photo-black-cow,csv:1,1220121383666992:0,0
+ImagenComprimidadepositphotos_138942204-stock-photo-white-cow-on-street-near,csv:1,00563645362854:0,00390625
+ImagenComprimidadepositphotos_138942210-stock-photo-white-cow-on-street-near,csv:0,926445722579956:0,0
+ImagenComprimidadepositphotos_144713747-stock-photo-skinny-white-cow-eating-green,csv:0,7413120269775391:4,19921875
+ImagenComprimidadepositphotos_162346210-stock-photo-farmer-feeding-cow,csv:0,9678385257720947:0,0234375
+ImagenComprimidadepositphotos_187727222-stock-photo-skinny-baby-cow-following-his,csv:1,1028592586517334:6,73046875
+ImagenComprimidadepositphotos_195575182-stock-photo-herd-of-cows-close-up,csv:0,75606369972229:0,10546875
+ImagenComprimidadepositphotos_195575218-stock-photo-cows-talk-to-each-other,csv:0,723365306854248:0,0078125
+ImagenComprimidadepositphotos_210586718-stock-photo-white-cow-painted-horns-wearing,csv:1,3545150756835938:13,53515625
+ImagenComprimidadepositphotos_211275746-stock-photo-white-cows-dusty-road-complex,csv:0,948115348815918:0,69921875
+ImagenComprimidadepositphotos_2389914-stock-photo-grazing-cow-portrait,csv:1,0838539600372314:-0,00390625
+ImagenComprimidadepositphotos_252738444-stock-photo-cow-in-nature-in-winter,csv:0,7123196125030518:0,015625
+ImagenComprimidadepositphotos_252738514-stock-photo-cow-in-nature-in-winter,csv:0,7356066703796387:0,0078125
+ImagenComprimidadepositphotos_252738536-stock-photo-cow-in-nature-in-winter,csv:0,8802652359008789:0,84375
+ImagenComprimidadepositphotos_277257632-stock-photo-spotted-cow-with-a-skinny,csv:0,8315403461456299:0,01171875
+ImagenComprimidadepositphotos_293977008-stock-photo-tolemaide-libya-may-2002-cow,csv:0,9457995891571045:6,0234375
+ImagenComprimidadepositphotos_297405222-stock-photo-skinny-cow-and-calf-walking,csv:0,745246410369873:0,0625
+ImagenComprimidadepositphotos_30473185-stock-photo-farmer-feeding-a-cow,csv:1,0627176761627197:0,0
+ImagenComprimidadepositphotos_32650635-stock-photo-two-cows,csv:1,0902361869812012:-0,01171875
+ImagenComprimidadepositphotos_333847824-stock-photo-problems-agriculture-animal-husbandry-concept,csv:0,6838235855102539:0,0234375
+ImagenComprimidadepositphotos_333849504-stock-photo-problems-agriculture-animal-husbandry-concept,csv:0,7103075981140137:0,02734375
+ImagenComprimidadepositphotos_36681079-stock-photo-bangalore-india-circa-october-2013,csv:1,0856854915618896:0,01171875
+ImagenComprimidadepositphotos_4797383-stock-photo-vet-examining-calf,csv:1,3394174575805664:0,0
+ImagenComprimidadepositphotos_4970634-stock-photo-skinny-cow,csv:1,053518533706665:0,0
+ImagenComprimidadepositphotos_64866037-stock-photo-calf-scratch,csv:1,1427433490753174:0,0
+ImagenComprimidadepositphotos_64866045-stock-photo-spotted-calf,csv:1,030102252960205:0,0
+ImagenComprimidadepositphotos_64866069-stock-photo-calf-chews-leaf,csv:0,9653313159942627:0,0
+ImagenComprimidadepositphotos_88025676-stock-photo-veal-grazing-along-scrape-metal,csv:1,1718950271606445:0,0
+ImagenComprimidadepositphotos_88504482-stock-photo-skinny-cow-with-a-sleeping,csv:1,2277531623840332:0,0078125
+ImagenComprimidadepositphotos_98285008-stock-photo-skinny-cow-covered-by-flies,csv:1,1202352046966553:0,046875
+ImagenComprimidadescarga (1),csv:1,634568452835083:0,00390625
+ImagenComprimidadescarga (2),csv:1,042980432510376:-0,015625
+ImagenComprimidadescarga (3),csv:1,0852928161621094:0,0
+ImagenComprimidadescarga (4),csv:0,957125186920166:0,00390625
+ImagenComprimidadescarga (5),csv:1,013634204864502:0,0
+ImagenComprimidadescarga (6),csv:0,9671726226806641:0,0
+ImagenComprimidadescarga,csv:1,697608232498169:0,0
+ImagenComprimidadestined-death-10076951,csv:1,1775953769683838:4,0078125
+ImagenComprimidadetail-of-white-cow-eye-with-many-annoying-flies-flies-sit-or-run-K5EPJB,csv:0,6831855773925781:-1,1171875
+ImagenComprimidadetail-of-white-cow-eye-with-many-annoying-flies-flies-sit-or-run-K5EPJG,csv:1,2251110076904297:4,875
+ImagenComprimidadetail-white-cow-eye-many-260nw-689768041,csv:1,6546602249145508:0,0
+ImagenComprimidadetail-white-cow-eye-many-annoying-flies-flies-sit-run-cow-eye-white-cow-sleep-hot-sunny-day-meadow-97533298,csv:1,0303866863250732:0,0625
+ImagenComprimidadominican-skinny-cow-jarabacoa-260nw-1825716290,csv:1,2632851600646973:0,0078125
+ImagenComprimidaDowned-Cow-Cover-Photo,csv:1,0178890228271484:0,0
+ImagenComprimidadowner-stage,csv:1,6673471927642822:0,0
+ImagenComprimidadownload,csv:1,628537893295288:0,0
+ImagenComprimidadpa-akm-191628,csv:1,0740628242492676:0,0
+ImagenComprimidadpa-akm-191629,csv:1,0231897830963135:0,0
+ImagenComprimidadpa-akm-191632,csv:1,0935781002044678:0,00390625
+ImagenComprimidaDreams-About-Cows-Interpretation-and-Meaning-2,csv:0,9211111068725586:0,0
+ImagenComprimidadrought,csv:0,929192304611206:0,0
+ImagenComprimidaDV5x7xEXkAIjVM6,csv:1,0226459503173828:0,0
+ImagenComprimidadying-of-malnutrition,csv:0,981252908706665:0,0
+ImagenComprimidae60aaef3-832c-408c-bc17-cb06eacd7f40 (1),csv:1,383345365524292:56,88671875
+ImagenComprimidae60aaef3-832c-408c-bc17-cb06eacd7f40,csv:1,3863811492919922:63,1875
+ImagenComprimidae72fab20-119d-11ea-9d7f-6cc436f85690,csv:1,0088579654693604:-0,05078125
+ImagenComprimidae73ff825655540b0180d7f7d4ded68cb,csv:1,7118618488311768:0,0
+ImagenComprimidaED-Weak-cow,csv:1,16109299659729:0,00390625
+ImagenComprimidaedfc21192f8b4ed398df111a44b2da7f,csv:1,6144380569458008:0,0
+ImagenComprimidaef65773b547467f6f569cac530216e54,csv:1,6586823463439941:0,0
+ImagenComprimidaEL9,csv:1,1479442119598389:0,0
+ImagenComprimidaEmaciated-cattle-in-southern-Oromo-region-in-drought-affected-Ethiopia-clse-to-Kenyan-border-1,csv:1,0481581687927246:0,0
+ImagenComprimidaemaciated-thin-cow-in-a-field-in-a-rural-village-in-cambodia-M9963R,csv:0,7650396823883057:0,01171875
+ImagenComprimidaemaciated-thin-cow-in-a-field-in-a-rural-village-in-cambodia-M9963W,csv:0,6550042629241943:0,0
+ImagenComprimidaEndometritis,csv:1,6439108848571777:0,0
+ImagenComprimidaEye-Cancer-Examples,csv:0,9038619995117188:0,0
+ImagenComprimidaeye-young-white-cow-with-fly-stall_70287-338,csv:1,296598196029663:0,0
+ImagenComprimidaEYg2GYHUwAMFDeV,csv:1,0554654598236084:3,8984375
+ImagenComprimidaf8477eddb46482639dbc1b4d3b9e690a,csv:0,8363690376281738:19,25
+ImagenComprimidafaces-of-poverty,csv:0,9554505348205566:-0,015625
+ImagenComprimidafarm-animals,csv:0,9068794250488281:0,0
+ImagenComprimidafarmer-having-discussion-vet-260nw-31669669,csv:1,687511920928955:0,0
+ImagenComprimidaFarmer_Looks_At_Livestock_-_Action_Against_Hunger_Kenya,csv:0,9243197441101074:0,0
+ImagenComprimidafarming-injecting-sick-cow-vaccine-his-91083194,csv:1,2906086444854736:0,0
+ImagenComprimidafc46b8e05ff65cbdae520d93e4c8224f,csv:1,0473477840423584:13,1640625
+ImagenComprimidafemale-farmers-tending-sick-cow-at-organic-dairy-farm-XE0TA1,csv:0,6984593868255615:0,10546875
+ImagenComprimidafig4 (1),csv:0,8941059112548828:0,03515625
+ImagenComprimidafig4,csv:1,7019479274749756:0,0
+ImagenComprimidafig6,csv:1,3324556350708008:0,0
+ImagenComprimidaFish Fry 2012 017,csv:1,6586289405822754:0,0
+ImagenComprimidaFlorida_Cracker_cow_and_calf,csv:1,070255994796753:31,390625
+ImagenComprimidafocused_161237624-stock-photo-female-farmers-tending-sick-cow,csv:0,8873319625854492:6,0234375
+ImagenComprimidaFrack-Cow-pic,csv:0,9640865325927734:0,40625
+ImagenComprimidafu74daf160h11,csv:1,5905170440673828:48,42578125
+ImagenComprimidaFUO6SOQEUBFV3GEYCN2U6N7WU4,csv:1,0399179458618164:-0,02734375
+ImagenComprimidagettyimages-109114414-612x612,csv:0,9388740062713623:-1,0
+ImagenComprimidagettyimages-109114657-612x612,csv:0,9384891986846924:0,0
+ImagenComprimidagettyimages-1141413179-612x612,csv:0,8991415500640869:0,00390625
+ImagenComprimidagettyimages-1156568642-1024x1024,csv:0,9556550979614258:0,0
+ImagenComprimidagettyimages-119507042-612x612,csv:0,9767546653747559:0,0
+ImagenComprimidagettyimages-119507046-612x612,csv:0,8989627361297607:0,0
+ImagenComprimidagettyimages-119507048-612x612,csv:0,9474930763244629:0,0
+ImagenComprimidagettyimages-119507093-612x612,csv:0,884526252746582:0,0
+ImagenComprimidagettyimages-119582998-594x594,csv:0,8864943981170654:0,0
+ImagenComprimidagettyimages-119582998-612x612,csv:0,9231448173522949:0,0
+ImagenComprimidagettyimages-119632408-612x612,csv:0,8989574909210205:0,0
+ImagenComprimidagettyimages-120276366-612x612,csv:0,9703176021575928:0,0
+ImagenComprimidagettyimages-1220660951-612x612,csv:0,9000732898712158:0,0
+ImagenComprimidagettyimages-1227102550-612x612,csv:0,9188618659973145:0,0
+ImagenComprimidagettyimages-1264416018-640x640,csv:1,635237693786621:0,0
+ImagenComprimidagettyimages-1286498620-612x612,csv:1,021897315979004:0,0
+ImagenComprimidagettyimages-158549336-612x612 (1),csv:0,928544282913208:0,0
+ImagenComprimidagettyimages-158549336-612x612,csv:0,928534746170044:0,0
+ImagenComprimidagettyimages-172137794-612x612,csv:0,9285025596618652:0,0
+ImagenComprimidagettyimages-472889757-640x640,csv:0,946122407913208:0,0
+ImagenComprimidagettyimages-501255145-612x612,csv:0,9783158302307129:0,0
+ImagenComprimidagettyimages-521718880-612x612,csv:0,8963162899017334:0,0
+ImagenComprimidagettyimages-527994746-612x612,csv:0,872065544128418:0,0
+ImagenComprimidagettyimages-544080016-612x612,csv:0,893216609954834:0,0
+ImagenComprimidagettyimages-544080320-612x612,csv:0,928149938583374:0,0
+ImagenComprimidagettyimages-578018242-612x612,csv:1,0382752418518066:0,0
+ImagenComprimidagettyimages-649658189-612x612,csv:1,3406398296356201:0,0
+ImagenComprimidagettyimages-674362014-640x640,csv:1,7306172847747803:0,0
+ImagenComprimidagettyimages-692780997-612x612,csv:0,8821940422058105:0,0
+ImagenComprimidagettyimages-696253171-612x612,csv:0,8958530426025391:0,0
+ImagenComprimidagettyimages-81220753-612x612,csv:0,95540452003479:0,0
+ImagenComprimidagettyimages-81220754-612x612,csv:0,9294097423553467:0,0
+ImagenComprimidagettyimages-97667232-612x612,csv:0,9799666404724121:0,0
+ImagenComprimidagettyimages-97667298-612x612,csv:0,9556858539581299:0,0
+ImagenComprimidagettyimages-990430642-1024x1024,csv:1,0724027156829834:0,0
+ImagenComprimidagirl-jug-milk-cow-jungfrau-region-switzerland-33025627,csv:0,6587314605712891:0,0
+ImagenComprimidagoshala-1-650(2),csv:0,9733412265777588:0,0
+ImagenComprimidagoshala-2-650(1),csv:0,9250690937042236:0,0
+ImagenComprimidagoshala-3-650(1),csv:0,9133152961730957:0,0
+ImagenComprimidagoshala-tvm-inner,csv:0,920062780380249:0,0
+ImagenComprimidagoshala,csv:0,948214054107666:0,0
+ImagenComprimidahcso-2,csv:1,0859849452972412:0,0
+ImagenComprimidahereford-steer-pink-eye-260nw-1042386964,csv:1,6453890800476074:0,0
+ImagenComprimidaHermiston-Cows,csv:1,285005807876587:0,0
+ImagenComprimidaHill County cattle seizure,csv:0,9642124176025391:0,0
+ImagenComprimidahqdefault (1),csv:1,2879955768585205:0,0
+ImagenComprimidahqdefault (2),csv:1,2850263118743896:0,0
+ImagenComprimidahqdefault,csv:1,6814994812011719:0,0
+ImagenComprimidahttp___com,csv:1,0128037929534912:0,0
+ImagenComprimidahungry-cow-cattle-egret-egyptian-260nw-1233318613,csv:1,2989270687103271:0,0
+ImagenComprimidaim54545ages,csv:1,638265609741211:0,0
+ImagenComprimidaim565657ages,csv:1,6490061283111572:0,0
+ImagenComprimidaim65656ages,csv:1,6479926109313965:0,0
+ImagenComprimidaim98908ages,csv:1,6578435897827148:0,0
+ImagenComprimidaima43434ges,csv:1,7126286029815674:0,0
+ImagenComprimidaima878978ges,csv:1,6270339488983154:0,0
+ImagenComprimidaima8989ges,csv:1,6346604824066162:0,0
+ImagenComprimidaimag98908es,csv:1,6464693546295166:0,0
+ImagenComprimidaimage-450w-1069977668,csv:1,3700370788574219:0,0
+ImagenComprimidaimage-450w-1487877377,csv:0,9055900573730469:0,0
+ImagenComprimidaimage-450w-1669205632,csv:0,8807220458984375:0,0
+ImagenComprimidaimage-450w-1765950113,csv:1,706995964050293:0,0
+ImagenComprimidaimage-450w-497794885,csv:1,665919542312622:0,0
+ImagenComprimidaimage-450w-532591420,csv:1,2832045555114746:0,0
+ImagenComprimidaimage,csv:1,052919626235962:0,0
+ImagenComprimidaimage10-300x225,csv:1,66951322555542:0,0
+ImagenComprimidaimage11-300x225,csv:1,6601078510284424:0,0
+ImagenComprimidaimage1170x530cropped,csv:1,2330617904663086:0,0
+ImagenComprimidaimage12,csv:1,1952991485595703:0,0
+ImagenComprimidaimage3773186x,csv:1,7254199981689453:0,0
+ImagenComprimidaimage42,csv:0,8025522232055664:5,0859375
+ImagenComprimidaimage5,csv:0,7864570617675781:4,9609375
+ImagenComprimidaimage6-300x225,csv:1,7187249660491943:0,0
+ImagenComprimidaimage9-300x225,csv:1,8010199069976807:0,0
+ImagenComprimidaimage98989s,csv:1,738159418106079:0,0
+ImagenComprimidaimages (1),csv:1,6344213485717773:0,0
+ImagenComprimidaimages (10),csv:1,7002508640289307:0,0
+ImagenComprimidaimages (11),csv:1,6616041660308838:0,0
+ImagenComprimidaimages (12),csv:1,6699495315551758:0,0
+ImagenComprimidaimages (13),csv:1,7485191822052002:0,0
+ImagenComprimidaimages (14),csv:1,6758737564086914:0,0
+ImagenComprimidaimages (15),csv:1,6136622428894043:0,0
+ImagenComprimidaimages (16),csv:1,618067741394043:0,0
+ImagenComprimidaimages (17),csv:1,6253480911254883:0,0
+ImagenComprimidaimages (18),csv:1,5792555809020996:0,0
+ImagenComprimidaimages (19),csv:1,7328450679779053:0,0
+ImagenComprimidaimages (2),csv:1,7493693828582764:0,0
+ImagenComprimidaimages (20),csv:1,6153874397277832:0,0
+ImagenComprimidaimages (21),csv:1,6281163692474365:0,0
+ImagenComprimidaimages (22),csv:1,7049107551574707:0,0
+ImagenComprimidaimages (23),csv:1,8078198432922363:0,0
+ImagenComprimidaimages (24),csv:1,75437593460083:0,0
+ImagenComprimidaimages (25),csv:1,60685396194458:0,0
+ImagenComprimidaimages (26),csv:1,595996379852295:0,0
+ImagenComprimidaimages (27),csv:1,5741381645202637:0,0
+ImagenComprimidaimages (28),csv:1,5661475658416748:0,0
+ImagenComprimidaimages (29),csv:1,628469705581665:0,0
+ImagenComprimidaimages (3),csv:1,6031854152679443:0,0
+ImagenComprimidaimages (30),csv:1,5705013275146484:0,0
+ImagenComprimidaimages (31),csv:1,5862932205200195:0,0
+ImagenComprimidaimages (32),csv:1,5943288803100586:0,0
+ImagenComprimidaimages (33),csv:1,5745539665222168:0,0
+ImagenComprimidaimages (34),csv:1,5958938598632812:0,0
+ImagenComprimidaimages (35),csv:1,563622236251831:0,0
+ImagenComprimidaimages (36),csv:1,5558536052703857:0,0
+ImagenComprimidaimages (37),csv:1,5625007152557373:0,0
+ImagenComprimidaimages (38),csv:1,5681912899017334:0,0
+ImagenComprimidaimages (39),csv:1,5798883438110352:0,0
+ImagenComprimidaimages (4),csv:1,7537922859191895:0,0
+ImagenComprimidaimages (40),csv:1,6801104545593262:0,0
+ImagenComprimidaimages (5),csv:1,6306889057159424:0,0
+ImagenComprimidaimages (6),csv:1,6395032405853271:0,0
+ImagenComprimidaimages (7),csv:1,6757197380065918:0,0
+ImagenComprimidaimages (8),csv:1,694493055343628:0,0
+ImagenComprimidaimages (9),csv:1,6521947383880615:0,0
+ImagenComprimidaimages-3434,csv:1,636758804321289:0,0
+ImagenComprimidaimages,csv:1,628598928451538:0,0
+ImagenComprimidaimages03343,csv:1,6396198272705078:0,0
+ImagenComprimidaIMG_20200830_110947_606,csv:0,9307024478912354:-0,03125
+ImagenComprimidaIMG_6924,csv:1,0477361679077148:0,0
+ImagenComprimidaindex-333,csv:1,6749682426452637:0,0
+ImagenComprimidaindia-1-1501395183,csv:0,9304311275482178:0,0
+ImagenComprimidaindian-cow-eating-grass-small-bull-red-161180094,csv:0,9347944259643555:0,0
+ImagenComprimidaindian-cow-mumbai-india-december-stable-center-skyscrapers-82482192,csv:0,9574086666107178:0,0
+ImagenComprimidaindian-cow-mumbai-india-december-stable-center-skyscrapers-82483128,csv:0,9650282859802246:0,0
+ImagenComprimidaindia_street_cows,csv:0,972632646560669:0,46875
+ImagenComprimidainpract-2014-January-36-1-15-F19,csv:1,2057814598083496:4,6953125
+ImagenComprimidaInquiry_-39kyy9yj83kc9v0s9evoju,csv:0,9115700721740723:0,1328125
+ImagenComprimidaistockphoto-1183090122-640x640,csv:0,9542005062103271:0,0
+ImagenComprimidaistockphoto-121724022-640x640,csv:0,8892905712127686:0,0
+ImagenComprimidaistockphoto-172999686-612x612,csv:0,8968245983123779:0,0
+ImagenComprimidaistockphoto-177777850-1024x1024,csv:1,0996227264404297:0,04296875
+ImagenComprimidaistockphoto-478028488-170x170,csv:1,6005222797393799:0,0
+ImagenComprimidaistockphoto-682108802-612x612,csv:1,0088515281677246:-1,32421875
+ImagenComprimidaistockphoto-692492564-1024x1024,csv:1,0436842441558838:0,0
+ImagenComprimidaistockphoto-855240586-170667a,csv:0,8942966461181641:0,0
+ImagenComprimidaIXYQCZ7JHNCA7D7GH4OGPVQFLA,csv:1,7091197967529297:0,0
+ImagenComprimidajesus,csv:0,9174330234527588:0,0
+ImagenComprimidajohnescow,csv:0,9753425121307373:0,0
+ImagenComprimidaK2OFEDCNS5GV3MYE5FDKEFND4Y,csv:1,0884041786193848:0,0
+ImagenComprimidaKARMA,csv:1,0886857509613037:0,07421875
+ImagenComprimidalarge960_blur-0604e37b2afd7a051b87e2c334c3bb47,csv:0,9971449375152588:0,0078125
+ImagenComprimidalean-cattle-northeastern-brazil-260nw-1254190657,csv:1,3356599807739258:0,0
+ImagenComprimidaLeather_malnourished_factoryfarm_india_india_trip_05_2000_002-800x555,csv:0,9891672134399414:0,00390625
+ImagenComprimidalone-cow-stands-snow-lesotho-260nw-153658166,csv:1,7385573387145996:0,0
+ImagenComprimidalonghorns seized,csv:0,9531922340393066:0,0
+ImagenComprimidaL_IMG_cow_2 (1),csv:1,6587109565734863:0,0
+ImagenComprimidaL_IMG_cow_2,csv:1,6277801990509033:0,0
+ImagenComprimidamalnourished-cattle-suffering-hardware-disease-260nw-1505647562,csv:1,698075294494629:0,0
+ImagenComprimidamalnourished-cows,csv:0,8805804252624512:0,0
+ImagenComprimidamalnourished-india-jaipur-rd-march-two-skinny-cows-lots-rubbish-can-be-seen-172025836,csv:0,7321488857269287:3,03125
+ImagenComprimidamalnourished-mother-cow-calf-cows-her-both-undernourished-drought-conditions-142565745,csv:1,0671496391296387:0,19921875
+ImagenComprimidamalnourished_cattle,csv:1,08353853225708:0,00390625
+ImagenComprimidamalnourished_cow_N2,csv:1,6862013339996338:0,0
+ImagenComprimidaman-pounding-grain-with-a-large-wooden-pestle-and-mortar-nearby-there-AMA8BP,csv:1,1609256267547607:7,54296875
+ImagenComprimidamasai-village-with-cattle-thin-due-to-drought-masai-mara-kenya-africa-BRETWM,csv:1,2158770561218262:6,98046875
+ImagenComprimidamaxresdefault (1),csv:0,9509665966033936:-0,0078125
+ImagenComprimidamaxresdefault (2),csv:1,0391066074371338:-0,00390625
+ImagenComprimidamaxresdefault (3),csv:1,0121347904205322:0,0
+ImagenComprimidamaxresdefault (4),csv:1,1120388507843018:0,0
+ImagenComprimidamaxresdefault,csv:1,1211023330688477:0,0
+ImagenComprimidamilk-cows-sick-lying-on-260nw-1267288420,csv:1,6582551002502441:0,0
+ImagenComprimidamilk-whiteblack-cow-sick-260nw-1546751300,csv:1,6701300144195557:0,0
+ImagenComprimidamilking-cow-at-agricultural-animal-exhibition-trade-show-close-up-2B5CCJN,csv:1,0201292037963867:6,01171875
+ImagenComprimidaMoose,csv:0,993755578994751:0,015625
+ImagenComprimidaMoose235+undernourished+cow_LR_FINAL,csv:1,0460879802703857:0,0234375
+ImagenComprimidaNA-CC412_BEEF_P_20140819165717,csv:0,9092898368835449:0,0
+ImagenComprimidaNDTV_CowBody,csv:1,313978910446167:0,0
+ImagenComprimidaNINTCHDBPICT000523012871,csv:1,0815844535827637:0,00390625
+ImagenComprimidanormandy-france-october-2007-veterinary-260nw-1468178291,csv:1,6448471546173096:0,0
+ImagenComprimidanormandy-france-october-2007-veterinary-260nw-1468986431,csv:1,2711117267608643:-1,015625
+ImagenComprimidaOIP,csv:1,2641749382019043:0,0
+ImagenComprimidaone-white-cow-with-horn-standing-in-a-farm-she-is-a-little-malnourished-KYYE9W,csv:1,1071281433105469:10,42578125
+ImagenComprimidaOrphanCalf-RFP-072516,csv:0,9102416038513184:0,015625
+ImagenComprimidaos-xpm-2013-04-03-os-lake-county-skinny-cows-20130403,csv:0,987443208694458:11,83203125
+ImagenComprimidaPadmanabha_Swamy_Temple_Goshala_Korah_750,csv:0,9720602035522461:-0,0234375
+ImagenComprimidapanorama-skinny-african-cattle-herd-260nw-728153377,csv:0,8792445659637451:0,00390625
+ImagenComprimidaphoto-cow-looking-you-farm-ranch-cow-looking-you-171798236,csv:1,3202869892120361:0,0
+ImagenComprimidaPic-1-8-768x512,csv:0,929734468460083:0,0
+ImagenComprimidapicture-1,csv:1,0117356777191162:0,0
+ImagenComprimidaPicture27,csv:0,9253883361816406:0,0
+ImagenComprimidapic_0906,csv:0,7129874229431152:3,41796875
+ImagenComprimidaPOOR+COWS+WEB+PIC,csv:1,0866765975952148:0,0
+ImagenComprimidaposter_76ee4e1cd9254a18b456a57d0a27f6de_66324426_ver1,csv:1,259319543838501:-1,01171875
+ImagenComprimidaPWPV4RS6CJSMAP6V34J7Z6NJJQ,csv:0,734731912612915:2,80078125
+ImagenComprimidar0_0_2250_3000_w1200_h678_fmax,csv:0,9334256649017334:-0,01953125
+ImagenComprimidar0_114_2240_1373_w1200_h678_fmax (1),csv:1,1210877895355225:1,82421875
+ImagenComprimidar0_114_2240_1373_w1200_h678_fmax,csv:1,0332448482513428:0,0
+ImagenComprimidar0_114_2240_1374_w1200_h678_fmax (1),csv:1,1250684261322021:0,1796875
+ImagenComprimidar0_114_2240_1374_w1200_h678_fmax,csv:1,0091121196746826:0,046875
+ImagenComprimidar0_18_4160_2357_w1200_h678_fmax,csv:1,1809890270233154:-0,00390625
+ImagenComprimidar1283_825_4127_2432_w1200_h678_fmax,csv:1,0901141166687012:0,375
+ImagenComprimidar960-56f9873d2be2239c9b0bae2b60f761f4,csv:0,9796605110168457:0,15234375
+ImagenComprimidar960-7412afa74ee6285e24195224859e33ba,csv:0,9844334125518799:0,0
+ImagenComprimidar960-796ee5535f388f40f512b7e656a54cbd,csv:0,9491336345672607:0,0
+ImagenComprimidaradha_1559556172,csv:1,1159651279449463:1,46875
+ImagenComprimidarebapic (1),csv:1,0000877380371094:0,140625
+ImagenComprimidarebapic,csv:1,6092016696929932:0,00390625
+ImagenComprimidaredirected-450w-1774632968,csv:1,3222661018371582:0,0
+ImagenComprimidaribs-on-a-skinny-cow-leeann-mclane-goetz (1),csv:1,6265068054199219:0,0
+ImagenComprimidaribs-on-a-skinny-cow-leeann-mclane-goetz (2),csv:1,627791166305542:0,0
+ImagenComprimidaribs-on-a-skinny-cow-leeann-mclane-goetz,csv:1,6835424900054932:0,0
+ImagenComprimidasad-sick-cow-lying-autumn-grass-44875970,csv:0,9830851554870605:0,01171875
+ImagenComprimidascale (1),csv:1,6228184700012207:0,0
+ImagenComprimidascale,csv:1,6404016017913818:0,0
+ImagenComprimidascale;jpeg_quality=65,csv:1,6588423252105713:0,0
+ImagenComprimidaScreen-Shot-2019-11-12-at-2,csv:0,9082868099212646:0,0
+ImagenComprimidasick cow 2 (1),csv:0,9134278297424316:0,0
+ImagenComprimidasick cow 2,csv:0,9472362995147705:0,0
+ImagenComprimidasick cow 3,csv:0,8797900676727295:0,0
+ImagenComprimidasick cow 4,csv:0,9086956977844238:0,0
+ImagenComprimidasick cow compressed,csv:1,6837849617004395:0,0
+ImagenComprimidaSick moose,csv:1,1348378658294678:0,00390625
+ImagenComprimidasick-calf-20891428,csv:0,9511477947235107:0,0
+ImagenComprimidasick-calf-eating-grass-with-brown-cow_20576-12,csv:0,8984103202819824:0,0
+ImagenComprimidasick-cow-11359692,csv:1,1412453651428223:0,015625
+ImagenComprimidasick-cow-sleep-on-straw-260nw-1016613913,csv:0,9055159091949463:0,0
+ImagenComprimidasick-cow-still-used-for-milking,csv:0,9010272026062012:0,0
+ImagenComprimidasick-cow-trying-eat-grass-260nw-1060983383,csv:0,8828465938568115:0,0
+ImagenComprimidasick-cow-trying-eat-grass-260nw-1076402318,csv:1,2889761924743652:0,0
+ImagenComprimidasick-cow-trying-eat-grass-600w-1060983383,csv:0,9701361656188965:0,0
+ImagenComprimidasick-cow-with-newborn-calf-fremont-county-idaho-1024,csv:1,1563539505004883:1,37890625
+ImagenComprimidasick-cow,csv:1,3011159896850586:0,0
+ImagenComprimidasick-starving-cow-8664394,csv:0,6764850616455078:0,0
+ImagenComprimidasick_cow,csv:1,6792588233947754:0,0
+ImagenComprimidaSick_cow001,csv:1,2368228435516357:12,05859375
+ImagenComprimidaskinny-black-cow-resting-on-260nw-1787857994,csv:1,7166738510131836:0,00390625
+ImagenComprimidaskinny-black-white-spotted-cow-grazing-michoacan-mexico-farm-animals-malnourished-domestic-cattle-travel-skinny-black-154541747,csv:0,8962173461914062:4,546875
+ImagenComprimidaskinny-black-white-spotted-cow-grazing-michoacan-mexico-farm-animals-malnourished-domestic-cattle-travel-skinny-cows-154541752,csv:1,0292515754699707:-0,83984375
+ImagenComprimidaskinny-brown-cattle-drinking-water-260nw-158720879,csv:1,6660337448120117:0,0
+ImagenComprimidaskinny-cow-260nw-67694008,csv:1,7424075603485107:0,0
+ImagenComprimidaskinny-cow-accelerating-eat-grass-260nw-1329489284,csv:1,6785571575164795:0,0
+ImagenComprimidaskinny-cow-buttocks-farm-background-260nw-1202408836,csv:1,6747090816497803:0,0
+ImagenComprimidaskinny-cow-eating-grass-260nw-1774632848,csv:1,6959867477416992:0,0703125
+ImagenComprimidaskinny-cow-eating-grass-260nw-1774632968,csv:1,2814488410949707:0,00390625
+ImagenComprimidaskinny-cow-feeding-himself-on-260nw-611269454,csv:1,290738582611084:0,0
+ImagenComprimidaskinny-cow-feeding-himself-on-260nw-611269460 (1),csv:1,335686206817627:0,0
+ImagenComprimidaskinny-cow-feeding-himself-on-260nw-611269460 (2),csv:1,2968628406524658:0,0
+ImagenComprimidaskinny-cow-feeding-himself-on-260nw-611269460,csv:1,7092061042785645:0,0
+ImagenComprimidaskinny-cow-feeding-himself-on-260nw-611269472,csv:1,71120023727417:0,0
+ImagenComprimidaskinny-cow-hungry-sick-cows-260nw-497794843 (1),csv:1,6543939113616943:0,0
+ImagenComprimidaskinny-cow-hungry-sick-cows-260nw-497794843,csv:1,6640305519104004:0,0
+ImagenComprimidaskinny-cow-hungry-sick-cows-260nw-497794861,csv:1,7238850593566895:0,0
+ImagenComprimidaskinny-cow-hungry-sick-cows-260nw-497794885,csv:1,6601428985595703:0,0
+ImagenComprimidaskinny-cow-making-face-into-260nw-1405991339,csv:1,6990978717803955:0,0
+ImagenComprimidaskinny-cow-making-face-into-260nw-1405991345,csv:1,3139119148254395:0,0
+ImagenComprimidaskinny-cow-making-face-into-260nw-1405991351,csv:1,6948883533477783:0,0
+ImagenComprimidaskinny-cow-walking-looking-camera-260nw-1616119090,csv:1,6591486930847168:0,0
+ImagenComprimidaskinny-cow-walking-on-dusty-260nw-1877858551,csv:1,766446828842163:0,0
+ImagenComprimidaskinny-cows-drinking-water-dry-260nw-761460727,csv:1,3042986392974854:0,0
+ImagenComprimidaskinny-cows-eating-grass-thailand-260nw-1765950110,csv:1,7001855373382568:0,0
+ImagenComprimidaskinny-cows-grazing-michoacan-mexico-skinny-cows-grazing-michoacan-mexico-skinny-black-white-spotted-cow-grazing-154541756,csv:0,7785704135894775:3,38671875
+ImagenComprimidaskinny-cows-trying-survive-last-260nw-1729776841,csv:1,6909971237182617:0,125
+ImagenComprimidaskinny-domestic-cow,csv:0,9655501842498779:0,00390625
+ImagenComprimidaskinny-elderly-steer-standing-next-260nw-1619873686,csv:1,7816219329833984:0,0
+ImagenComprimidaskinny-red-dairy-cow-eating-260nw-532591420,csv:1,686009168624878:0,0
+ImagenComprimidaskinny-underfed-cow-in-africa-showing-ribs-stock-images_csp62507058,csv:1,6347098350524902:0,0
+ImagenComprimidaskinny-white-cambodian-cow-countryside-260nw-1624914841,csv:1,7207403182983398:0,0
+ImagenComprimidaskinny-white-cows-oxen-we-260nw-1173161593,csv:0,8986763954162598:0,0
+ImagenComprimidaSkinProblems-TSLN-111712-1-2,csv:0,9218263626098633:0,0
+ImagenComprimidaSkinProblems-TSLN-111712-1,csv:0,9141592979431152:0,0
+ImagenComprimidasnout-grass-mouth-cow-260nw-149943773,csv:1,6891183853149414:0,0
+ImagenComprimidaSOdroughtcow,csv:1,0405588150024414:0,953125
+ImagenComprimidastarving-cows-almost-new-moon-sunriseUrginea-fl-Fri-Sat-Sep7-8-017,csv:1,058929681777954:0,0390625
+ImagenComprimidastarving-cows-almost-new-moon-sunriseUrginea-fl-Fri-Sat-Sep7-8-024,csv:0,8722167015075684:7,08984375
+ImagenComprimidastarving-cows-almost-new-moon-sunriseUrginea-fl-Fri-Sat-Sep7-8-108,csv:1,116713285446167:1,94921875
+ImagenComprimidastarving-cows-almost-new-moon-sunriseUrginea-fl-Fri-Sat-Sep7-8-133,csv:1,1588823795318604:-1,125
+ImagenComprimidastarving-cows-almost-new-moon-sunriseUrginea-fl-Fri-Sat-Sep7-8-149,csv:1,2040762901306152:0,046875
+ImagenComprimidastarving-cows-almost-new-moon-sunriseUrginea-fl-Fri-Sat-Sep7-8-160,csv:0,9481720924377441:0,015625
+ImagenComprimidaState-of-Misery-thin-Spanish-cow-with-overgrown-hooves,csv:0,939093828201294:0,015625
+ImagenComprimidastock-photo-indian-malnourished-cow-1287767923,csv:1,1723053455352783:10,4140625
+ImagenComprimidastuffed-new-born-dead-calves-joined-stuck-together-D4G6XA,csv:1,0754046440124512:2,74609375
+ImagenComprimidatest3,csv:1,3063881397247314:0,00390625
+ImagenComprimidathe-bullvine-true-type-2yr (1),csv:1,3130035400390625:0,015625
+ImagenComprimidathe-bullvine-true-type-2yr,csv:1,3441414833068848:0,0
+ImagenComprimidaTheherdsman-on-the-left-is-stroking-this-cow-under-the-jaw-and-neck-This-area-is-often_Q320,csv:1,2963099479675293:0,0
+ImagenComprimidathin-cow,csv:1,2708556652069092:0,0
+ImagenComprimidathree-curious-white-emaciated-thin-260nw-1877710990,csv:1,2995550632476807:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914844 (1),csv:1,6863985061645508:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914844,csv:1,278207778930664:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914847,csv:1,6768651008605957:0,015625
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914850 (1),csv:1,7114465236663818:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914850,csv:1,6854586601257324:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914856,csv:1,6653738021850586:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914859,csv:1,2705097198486328:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914862,csv:1,6794514656066895:0,0
+ImagenComprimidathree-skinny-white-cambodian-cow-260nw-1624914952,csv:1,6735918521881104:0,0
+ImagenComprimidaTie-Stall-Misery-in-Germany-Emaciated-and-chained-24-hours-a-day,csv:0,9255173206329346:0,0
+ImagenComprimidatripura-cows-1,csv:1,0873827934265137:0,08203125
+ImagenComprimidatwo-cow-eating-grass-260nw-78098608,csv:1,6366710662841797:0,0
+ImagenComprimidat_0cf67aa911c249209d0e1e87674ce6b2_name_djJ8MjAzMTEwMXy71362FXJQkFuU4hD1EoGO0duAVrwHBC_cSpElbSNRr0CVc9R7_DypUtmXRF6HJgVUE_59bltpVQzQs8W6Ma6hKtprO0z6b_UWcHt,csv:1,0576939582824707:0,00390625
+ImagenComprimidat_5aaecb89c15d4ce7b84b91ec2171a92a_name_file_1280x720_2000_v3_1_,csv:1,1453778743743896:0,0078125
+ImagenComprimidau5lpk6aqmysoscqcehb7ftr4rm,csv:0,7024767398834229:0,0
+ImagenComprimidaUgK_-Gyz_400x400 (1),csv:1,6906516551971436:0,015625
+ImagenComprimidaUgK_-Gyz_400x400,csv:1,3282482624053955:0,0
+ImagenComprimidauKVS6YXk_CsMXiXOHN4Ip4klM_AA_eAVDC5z3tFgm-Q,csv:1,2305679321289062:2,3203125
+ImagenComprimidaundernourished-jersey-calf-full-semi-profile-view-standing-pasture-being-separated-her-mother-157524940,csv:0,9317550659179688:0,01171875
+ImagenComprimidaunnamed (1),csv:1,6450376510620117:0,01171875
+ImagenComprimidaunnamed (10),csv:0,904998779296875:0,00390625
+ImagenComprimidaunnamed (11),csv:0,9530923366546631:0,0
+ImagenComprimidaunnamed (12),csv:0,8987545967102051:0,0
+ImagenComprimidaunnamed (13),csv:0,884728193283081:0,0
+ImagenComprimidaunnamed (2),csv:1,6879260540008545:0,0
+ImagenComprimidaunnamed (3),csv:1,304095983505249:0,0
+ImagenComprimidaunnamed (4),csv:0,8903682231903076:0,0
+ImagenComprimidaunnamed (5),csv:1,2962956428527832:0,0
+ImagenComprimidaunnamed (6),csv:1,6750786304473877:0,0
+ImagenComprimidaunnamed (7),csv:0,9060988426208496:0,0
+ImagenComprimidaunnamed (8),csv:1,304619312286377:0,0
+ImagenComprimidaunnamed (9),csv:1,3509204387664795:0,0
+ImagenComprimidaunnamed,csv:1,704352855682373:0,0
+ImagenComprimidaVeal-calf-tied-neck,csv:1,646782636642456:0,0
+ImagenComprimidavery-sad-and-thin-malnourished-footage-098972024_iconm (1),csv:1,611518383026123:0,0
+ImagenComprimidavery-sad-and-thin-malnourished-footage-098972024_iconm,csv:1,6226146221160889:0,0
+ImagenComprimidavery-thin-baby-calf-walking-in-meadow-C0527Y,csv:0,7380328178405762:0,03125
+ImagenComprimidaveterinarian-takes-medicine-tail-cow-260nw-683905027,csv:1,8140747547149658:-0,00390625
+ImagenComprimidaveterinary-on-farm-performing-physical-260nw-277029761,csv:1,73860764503479:0,0
+ImagenComprimidaveterinary-on-farm-performing-physical-260nw-277044182,csv:1,659952163696289:0,0
+ImagenComprimidaveterinary-on-farm-performing-physical-260nw-285749438,csv:1,6598327159881592:0,0
+ImagenComprimidaveterinary-on-farm-performing-physical-260nw-285751706,csv:1,2900991439819336:0,0
+ImagenComprimidaveterinary-on-farm-performing-physical-260nw-612707153,csv:1,6750788688659668:0,0
+ImagenComprimidaveterinary-treatment-cattle-outdoor-back-view-brown-white-cow-rumen-fistula-hole-side-due-to-indigestion-146197343,csv:0,959622859954834:0,0
+ImagenComprimidaview-of-skinny-cow-grazing-on-field-WC7Y9X,csv:0,6554954051971436:0,08203125
+ImagenComprimidavolunteers-corporation-rehabilitation-entrenched-hingoniya-officials-corruption_f25465bc-5b26-11e6-8ec9-11a86e94b7e9 (1),csv:0,9382390975952148:-0,01171875
+ImagenComprimidavolunteers-corporation-rehabilitation-entrenched-hingoniya-officials-corruption_f25465bc-5b26-11e6-8ec9-11a86e94b7e9,csv:0,9141678810119629:0,0
+ImagenComprimidaWartsBovine,csv:0,8928937911987305:0,0
+ImagenComprimidaWest_Pokot_County_Animal_Health_Outreach_-_Action_Against_Hunger_Kenya_0,csv:1,0679006576538086:-0,03515625
+ImagenComprimidawhite-cow-near-siem-reap-cambodia-182297468,csv:0,9933316707611084:0,0078125
+ImagenComprimidawhite-cow-near-siem-reap-cambodia-182297476,csv:0,9789533615112305:0,0
+ImagenComprimidawhite-cow-street-near-siem-reap-town-cambodia-84710709,csv:1,0128357410430908:0,0
+ImagenComprimidawhite-skinny-cow-highlands-260nw-1661259655,csv:1,687535285949707:0,0
+ImagenComprimidawhite-skinny-cow-on-mountainside-260nw-1662857650,csv:1,7406578063964844:0,0
+ImagenComprimidawhitebrown-cow-lies-on-floor-260nw-729669244,csv:1,6583683490753174:0,0
+ImagenComprimidaWhy-are-dairy-cows-skinny_,csv:1,109445571899414:3,65234375
+ImagenComprimidaXVM4e4b9a6e-232c-11e9-a614-accb22738a18,csv:1,317629098892212:0,00390625
+ImagenComprimidayogi-adityanath-cows-249387453059020,csv:1,0358574390411377:0,08984375
+ImagenComprimidayoung-buffalo-that-indicated-be-260nw-1553342363,csv:1,7416622638702393:-1,03515625
+ImagenComprimidayoung-skinny-whitebrown-calf-standing-260nw-1863470689,csv:1,656313180923462:0,0
+ImagenComprimidazimbabwean-men-attempt-to-get-a-malnourished-cow-on-its-feet-in-rural-masvingo-in-this-picture-taken-january-21-2016-the-united-nations-world-food-programme,csv:0,6733784675598145:0,0
+ImagenComprimida_105413635_meatfloorreut31jan19,csv:0,9165205955505371:0,0
+ImagenComprimida_56caf73c-2d5d-11e7-a28f-c563b2540923,csv:1,2759990692138672:0,0
+ImagenComprimida_94835233_muddycow,csv:1,0066540241241455:0,0
+ImagenComprimida©-PETA-5 (1),csv:0,9925951957702637:0,0
+ImagenComprimida©-PETA-5,csv:1,023374319076538:0,0
+ImagenComprimidaช่วยหมา,csv:0,9469037055969238:0,0

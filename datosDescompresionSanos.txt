@@ -1,0 +1,376 @@
+nombreImagen:tiempo:memoria
+ImagenComprimida01cowburps-promo-mediumSquareAt3X-v2,csv:0,9022674560546875:9,86328125
+ImagenComprimida03iFr8nE,csv:1,2740504741668701:0,1953125
+ImagenComprimida0a3a9f3f985ccfbf398c345807117cf8,csv:1,633286476135254:0,0
+ImagenComprimida0be0cecd04cf8cf94e1ab24e6b0388d47a-17-cow,csv:0,9100649356842041:0,0625
+ImagenComprimida0cows-1264546,csv:1,114396572113037:0,01171875
+ImagenComprimida1-MAIN-dairy-cow-with-twin-calves_4755622a-c-John-Eveson_Flpa_imageBROKER_REX_Shutterstock,csv:0,9865312576293945:0,0
+ImagenComprimida1000-secret-lives-cows-5,csv:0,9338846206665039:0,0
+ImagenComprimida1012746,csv:1,2955098152160645:-0,00390625
+ImagenComprimida1012758,csv:1,0037953853607178:0,0
+ImagenComprimida1024px-Cow-IMG_2050-640x480,csv:0,9403402805328369:0,0
+ImagenComprimida1105FMcovercows-1200x900,csv:0,9870364665985107:0,0
+ImagenComprimida11536890-16x9-xlarge (1),csv:0,9343407154083252:0,0
+ImagenComprimida11536890-16x9-xlarge,csv:0,9458119869232178:0,0
+ImagenComprimida1200px-Cow_female_black_white,csv:1,118034839630127:0,0
+ImagenComprimida1200x475-cows-raised-for-meat,csv:1,0118069648742676:0,0
+ImagenComprimida1200x475-jasper-discarded-dairy-calf,csv:0,9611508846282959:0,0
+ImagenComprimida1371523449000-GAN-FLUFFY-COWS-061713-1306172246_16_9,csv:1,1687614917755127:0,09375
+ImagenComprimida1374ebfb94f040f66bea611536c8eb3157-11-cows,csv:1,0836198329925537:0,17578125
+ImagenComprimida1412383,csv:1,65449857711792:0,0
+ImagenComprimida1519796683332,csv:1,3376564979553223:23,76953125
+ImagenComprimida15Joy-superJumbo,csv:0,8699905872344971:25,1640625
+ImagenComprimida19049054600_99ec9fe14d_k,csv:0,7740268707275391:8,1484375
+ImagenComprimida1DBD1058-B266-4717-84D2-29B53615CC2B_w1200_r1,csv:1,0662493705749512:0,5234375
+ImagenComprimida1_3IHNk-ZginNh8yz4pAqeTQ,csv:1,6263766288757324:60,8359375
+ImagenComprimida1_D81kc_hFIiW-07lWfMx2nQ (1),csv:1,2163431644439697:68,2265625
+ImagenComprimida1_D81kc_hFIiW-07lWfMx2nQ,csv:1,1826145648956299:47,55078125
+ImagenComprimida2,csv:0,8848903179168701:2,0546875
+ImagenComprimida200_2D00_IssuesFoodCow1,csv:1,6399569511413574:0,0
+ImagenComprimida2019_06-07_FSNY_Princess_cow_DSC_9428_CREDIT_Farm_Sanctuary-1-3,csv:0,7137432098388672:26,3671875
+ImagenComprimida2754idea99HF-cow-female-breed,csv:1,6405394077301025:-0,01171875
+ImagenComprimida29STEER-superJumbo,csv:0,64681077003479:4,74609375
+ImagenComprimida3,csv:1,1512773036956787:69,75390625
+ImagenComprimida300px-Cow_eating_some_grass,csv:1,7149312496185303:-0,8125
+ImagenComprimida3978,csv:1,1606545448303223:22,21875
+ImagenComprimida3BD05186-CD32-42AC-BC3D-3D01D14826FF_w1200_r1,csv:0,9394731521606445:0,29296875
+ImagenComprimida4351,csv:1,075317621231079:8,64453125
+ImagenComprimida43957380_401,csv:1,305225133895874:-0,88671875
+ImagenComprimida439_cattle-methane-yellow,csv:0,9345760345458984:0,19140625
+ImagenComprimida4500 (1),csv:0,6535966396331787:1,26171875
+ImagenComprimida4500,csv:0,6382761001586914:0,125
+ImagenComprimida47863948_401,csv:0,8887321949005127:0,02734375
+ImagenComprimida4926141204_c209d47d18_z,csv:0,9049608707427979:0,0
+ImagenComprimida5-consejos-saludables-para-criar-una-vaca-de-leche,csv:0,9535880088806152:0,0703125
+ImagenComprimida50907943_401,csv:1,7200343608856201:0,0
+ImagenComprimida5256,csv:1,21602463722229:8,04296875
+ImagenComprimida55b643a71700002600565710,csv:1,0889968872070312:13,2578125
+ImagenComprimida59668ab7e57487d707ccb1c72b277df3,csv:0,954125165939331:0,08984375
+ImagenComprimida5f884a6bea23a5001903d843,csv:0,9419984817504883:0,0390625
+ImagenComprimida5f96ec664743a3001216b9bb,csv:0,9330506324768066:0,06640625
+ImagenComprimida6,csv:0,8910202980041504:0,0
+ImagenComprimida610_holycow_interview-e1414436247275-500x282,csv:1,28497314453125:0,0
+ImagenComprimida65126-istock-92055550_0,csv:1,2879173755645752:34,5546875
+ImagenComprimida6C8322400-panda_cow--1828381522_v2,csv:0,9043240547180176:7,89453125
+ImagenComprimida7-healthy-cows-400x312,csv:0,8832826614379883:0,05078125
+ImagenComprimida79151b1f16c9c351cbe0689d41533340e993cb52,csv:0,9173088073730469:0,05859375
+ImagenComprimida800,csv:0,9356532096862793:0,02734375
+ImagenComprimida83736,csv:1,3178246021270752:0,0
+ImagenComprimida870089-83077-qpzqwhiifl-1519643868,csv:0,9897174835205078:3,578125
+ImagenComprimida910357290,csv:0,9304244518280029:0,00390625
+ImagenComprimida9551411,csv:0,8751125335693359:29,74609375
+ImagenComprimida960x0 (1),csv:0,9630146026611328:-0,01171875
+ImagenComprimida960x0,csv:1,0899863243103027:-0,015625
+ImagenComprimida9cd211cb5e4b45e5287e2485456874b8b1-beach-cows,csv:1,1485166549682617:9,44921875
+ImagenComprimidaA-cow-007,csv:1,6714987754821777:0,0078125
+ImagenComprimidaAdobeStock_655955,csv:0,9348709583282471:0,0546875
+ImagenComprimidaAg-Farm_0eaf9898-2cb6-44f0-acc1-fba90894f38f,csv:1,5177979469299316:98,8984375
+ImagenComprimidaAlimentarium-vache,csv:1,6741406917572021:0,3671875
+ImagenComprimidaall-about-cows-1 (1),csv:1,140993356704712:83,62109375
+ImagenComprimidaall-about-cows-1,csv:1,114490270614624:59,93359375
+ImagenComprimidaamazing-cow-teaser,csv:1,6769375801086426:2,50390625
+ImagenComprimidaanimal-close-up-countryside-63246-371epyjyzln4kkfnq67qio,csv:1,0428850650787354:7,3671875
+ImagenComprimidaare-cows-friendly-1280x850-1-1024x680 (1),csv:0,9377262592315674:1,17578125
+ImagenComprimidaare-cows-friendly-1280x850-1-1024x680,csv:0,9388115406036377:0,125
+ImagenComprimidaAre-you-a-bull-or-a-cow-1,csv:1,0276775360107422:2,98046875
+ImagenComprimidaAussie-academic-takes-first-step-in-creating-Google-Translate-for-cows_wrbm_large,csv:0,9128129482269287:0,03125
+ImagenComprimidaAustria-cow-AdobeStock_295313089,csv:1,0696537494659424:0,23828125
+ImagenComprimidaBaby-coo,csv:0,7073442935943604:8,02734375
+ImagenComprimidabfejlu5tlffulhj2n6pt6kkwcy,csv:0,9303176403045654:-0,0078125
+ImagenComprimidaBL07-COWS1,csv:1,019575834274292:-0,02734375
+ImagenComprimidaBlack-cow-calf-pair-BEEF2007AB_2,csv:1,6475157737731934:0,00390625
+ImagenComprimidaBlosom---Tallest-Cow-ever-guinness-world-records_tcm25-386482,csv:0,9511375427246094:0,0
+ImagenComprimidaBlosom---Tallest-Cow-ever_headline-image-guinness-world-records_tcm25-386481,csv:0,9249248504638672:0,0
+ImagenComprimidaBOUW-ROCKY_Sommers-Melkveehouderij-VOF-Elsendorp_88596-1024x731,csv:1,11806321144104:0,015625
+ImagenComprimidabovino_sano,csv:1,6766431331634521:0,015625
+ImagenComprimidaBrahman-Cow,csv:0,8948018550872803:0,00390625
+ImagenComprimidaBrown-cow-lying-in-a-fiel-005,csv:1,07255220413208:-0,00390625
+ImagenComprimidabrown-Guernsey-cow,csv:0,6408917903900146:0,0234375
+ImagenComprimidabrownswiss,csv:1,0955169200897217:1,40625
+ImagenComprimidacalf,csv:0,878868579864502:11,1875
+ImagenComprimidacan_cows_help_mitigate_climate_change_1050x700,csv:0,9699132442474365:-0,0546875
+ImagenComprimidacattle-grazing-pasture-Pete-Flickr,csv:0,9918086528778076:0,0
+ImagenComprimidacedar-island-cow,csv:0,9727225303649902:0,0
+ImagenComprimidaCH_cow_2_cropped,csv:1,4160435199737549:52,34375
+ImagenComprimidaconnected-cows-1280x720,csv:0,9801397323608398:-0,08203125
+ImagenComprimidaconnected-cows,csv:0,9018568992614746:0,0
+ImagenComprimidaCow (1),csv:0,8753678798675537:0,0
+ImagenComprimidacow (2),csv:0,9273161888122559:0,0
+ImagenComprimidacow (3),csv:0,7362167835235596:0,20703125
+ImagenComprimidaCow (4),csv:0,9492049217224121:-1,4140625
+ImagenComprimidacow (5),csv:0,6497938632965088:0,0
+ImagenComprimidacow (6),csv:0,9899196624755859:1,16796875
+ImagenComprimidacow (Case Conflict),csv:1,3129816055297852:0,06640625
+ImagenComprimidaCow 1000x1000,csv:1,0245716571807861:0,02734375
+ImagenComprimidacow-1,csv:0,991464376449585:0,0
+ImagenComprimidacow-1200,csv:1,0541601181030273:-0,00390625
+ImagenComprimidacow-1509258_640-640x426,csv:0,932070255279541:0,0
+ImagenComprimidacow-1574218,csv:0,8043205738067627:5,44140625
+ImagenComprimidacow-1955406_1280,csv:1,1228296756744385:3,17578125
+ImagenComprimidaCow-2,csv:1,674548864364624:0,0
+ImagenComprimidacow-2755520_1280-e1562847293329,csv:1,0391979217529297:0,1640625
+ImagenComprimidacow-2896329_960_720-Copy-476x459,csv:0,9031989574432373:0,0
+ImagenComprimidacow-300x225 (1),csv:1,693701982498169:0,0
+ImagenComprimidacow-300x225,csv:1,6728894710540771:0,0
+ImagenComprimidacow-354428_1280,csv:0,9960932731628418:3,73046875
+ImagenComprimidacow-4364016_960_720-e1565270790112,csv:1,6500043869018555:0,01171875
+ImagenComprimidacow-5717273__340,csv:0,8960938453674316:0,13671875
+ImagenComprimidacow-5717278__340,csv:0,8723227977752686:0,0
+ImagenComprimidacow-952199_1280-1024x682,csv:1,0243816375732422:0,0
+ImagenComprimidaCow-Activity-Monitor,csv:1,015561580657959:0,0
+ImagenComprimidacow-and-calf-in-field-1602778968,csv:1,3108124732971191:0,00390625
+ImagenComprimidaCow-and-Calf,csv:1,0272862911224365:0,0
+ImagenComprimidaCow-and-calves-in-pasture,csv:0,8787140846252441:0,00390625
+ImagenComprimidacow-animal-review-flickr-nicolas-vigier,csv:1,1508824825286865:15,73828125
+ImagenComprimidacow-appreciation-day-1,csv:0,7985339164733887:0,6875
+ImagenComprimidacow-appreciation-day,csv:1,1821794509887695:-0,16015625
+ImagenComprimidacow-calf-08,csv:1,3076117038726807:0,1015625
+ImagenComprimidacow-calf-29,csv:0,9558641910552979:0,08203125
+ImagenComprimidacow-calf-cattle-stock-51311,csv:0,9296889305114746:0,0
+ImagenComprimidaCow-Calf_Pair_Red,csv:0,9427938461303711:0,0078125
+ImagenComprimidacow-dairy-cows-on-pasture-field-e1607585804504-825x522 (1),csv:0,8814992904663086:0,03125
+ImagenComprimidacow-dairy-cows-on-pasture-field-e1607585804504-825x522,csv:0,8787102699279785:0,0
+ImagenComprimidacow-feature,csv:0,9553942680358887:7,8203125
+ImagenComprimidacow-field-one-health-uc-davis (1),csv:0,9137661457061768:-0,01953125
+ImagenComprimidacow-field-one-health-uc-davis,csv:0,9090056419372559:0,00390625
+ImagenComprimidacow-field-wide-angle-flickr-saturn-h,csv:0,8698012828826904:0,0
+ImagenComprimidacow-grazing-green-meadow_268835-3015,csv:0,896024227142334:0,0
+ImagenComprimidaCow-Health-Welfare,csv:1,3149943351745605:0,0
+ImagenComprimidacow-Holstein-Friesian,csv:0,923485517501831:0,0
+ImagenComprimidacow-jokes-and-puns,csv:0,9887676239013672:0,0
+ImagenComprimidacow-jokes-funny-cow-puns-2,csv:1,3413867950439453:0,0
+ImagenComprimidaCow-meadow-windmill-grass (1),csv:0,6820306777954102:1,96484375
+ImagenComprimidaCow-meadow-windmill-grass,csv:0,6710591316223145:0,9921875
+ImagenComprimidacow-methane-earth-day-660,csv:0,8992063999176025:3,23828125
+ImagenComprimidacow-min,csv:1,6698403358459473:0,02734375
+ImagenComprimidacow-mood-human-neckstretching-october-2020,csv:1,0970849990844727:12,61328125
+ImagenComprimidacow-names,csv:0,9425222873687744:0,0
+ImagenComprimidacow-running-race-pixabay,csv:0,9027621746063232:0,0
+ImagenComprimidacow-the-life-nourisher,csv:1,0097575187683105:0,1953125
+ImagenComprimidacow-tinder-app,csv:1,2607786655426025:33,24609375
+ImagenComprimidaCow-Urine-Health-Benefits-How-To-Drink,csv:0,954045295715332:-0,01953125
+ImagenComprimidacow-with-big-tongue,csv:0,9109067916870117:0,01171875
+ImagenComprimidaCow-with-calf-on-grass,csv:1,2766509056091309:-1,28515625
+ImagenComprimidacow,csv:0,9441947937011719:0,0
+ImagenComprimidacow11,csv:0,9870898723602295:0,0
+ImagenComprimidacow2-1521548803,csv:0,8947494029998779:0,0
+ImagenComprimidacow2,csv:0,9446933269500732:1,3671875
+ImagenComprimidacowcalf,csv:1,1819889545440674:11,98828125
+ImagenComprimidacowhero2,csv:1,0310652256011963:0,98828125
+ImagenComprimidacowlickhero,csv:1,0834190845489502:0,984375
+ImagenComprimidacows (1),csv:1,0129539966583252:0,05078125
+ImagenComprimidacows (2),csv:0,6686570644378662:0,01171875
+ImagenComprimidacows-1 (1),csv:0,6516168117523193:3,77734375
+ImagenComprimidacows-1,csv:0,6647055149078369:2,95703125
+ImagenComprimidacows-1549746_1920,csv:0,9310171604156494:-15,0390625
+ImagenComprimidacows-160067,csv:0,9794199466705322:6,7109375
+ImagenComprimidacows-18-of-25,csv:1,280813455581665:0,0390625
+ImagenComprimidacows-file-photo-ians-830394,csv:1,0086395740509033:3,11328125
+ImagenComprimidacows-heat-pod,csv:1,2975037097930908:0,1328125
+ImagenComprimidaCows-in-a-field (1),csv:0,9297809600830078:-0,73828125
+ImagenComprimidaCows-in-a-field (2),csv:0,8895242214202881:0,0390625
+ImagenComprimidaCows-in-a-field,csv:0,8807806968688965:0,08203125
+ImagenComprimidacows-milk-substitutes,csv:0,6755208969116211:7,65234375
+ImagenComprimidaCows-on-a-Dutch-farm-800x667,csv:0,9358913898468018:-0,01171875
+ImagenComprimidacows-on-pasture-3237797_1280-compressor,csv:1,0844740867614746:6,3359375
+ImagenComprimidaCows-Outside_680px,csv:0,9245011806488037:-0,984375
+ImagenComprimidacows-standing-in-field-portrait-royalty-free-image-1603183203,csv:0,959449291229248:0,12109375
+ImagenComprimidacows,csv:0,9234137535095215:0,00390625
+ImagenComprimidacowsa,csv:1,2506654262542725:15,625
+ImagenComprimidaCowsfield_Mootral,csv:0,7331371307373047:2,37890625
+ImagenComprimidacowsignals_2560px (1),csv:0,8388099670410156:15,17578125
+ImagenComprimidacowsignals_2560px,csv:0,8575196266174316:14,97265625
+ImagenComprimidacowsssssss,csv:1,1684072017669678:4,0625
+ImagenComprimidacow_and_calf,csv:0,7516789436340332:9,34375
+ImagenComprimidacow_cow_cow_3527567a_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8,csv:1,6777799129486084:-0,015625
+ImagenComprimidacow_farts_istock,csv:0,9112045764923096:-0,015625
+ImagenComprimidaCow_health_OG,csv:0,9963414669036865:0,203125
+ImagenComprimidaCow_in_Iceland,csv:0,932293176651001:17,60546875
+ImagenComprimidacow_run_5,csv:1,2820489406585693:-0,03515625
+ImagenComprimidaCow_Vid,csv:1,304741621017456:22,2734375
+ImagenComprimidacrop,csv:1,7046926021575928:-0,0078125
+ImagenComprimidaCupid-In-Her-Image-dairy,csv:1,6959664821624756:0,0
+ImagenComprimidaCurious-Cow-Blog-Feature-Image,csv:1,3337092399597168:-0,0546875
+ImagenComprimidaCurious-Cows,csv:1,1186399459838867:16,7734375
+ImagenComprimidadairy-cow-1,csv:0,974928617477417:-1,03125
+ImagenComprimidadairy-cow-540x380,csv:0,9689285755157471:0,0
+ImagenComprimidadairy-cow,csv:1,0577309131622314:0,01171875
+ImagenComprimidadairy-cows-on-pasture (1),csv:1,3394062519073486:-0,0078125
+ImagenComprimidadairy-cows-on-pasture,csv:1,3360071182250977:-0,01171875
+ImagenComprimidaDairyCowBed_1032016-36257_F_c-TimScrivener,csv:0,9233965873718262:0,0
+ImagenComprimidadairycows,csv:1,243710994720459:4,15625
+ImagenComprimidadairy_cow_ridgeway_research_5-scaled,csv:1,0133581161499023:24,3125
+ImagenComprimidaDairy_cow_single_banner_2,csv:1,235579013824463:14,53515625
+ImagenComprimidaDean-Farm-Trust-Cow-2,csv:0,9348783493041992:-0,015625
+ImagenComprimidadepositphotos_47178201-stock-photo-healthy-cow-in-mountains,csv:1,0181643962860107:1,83203125
+ImagenComprimidadescarga,csv:1,6842858791351318:0,0
+ImagenComprimidaDFOC-047,csv:0,9808735847473145:0,0390625
+ImagenComprimidadiscover,csv:0,9592282772064209:3,41796875
+ImagenComprimidadivacow_custom-dda68e165d8a2336a2a8ccb7e0bf7b1d3acccfa7,csv:1,003427267074585:0,10546875
+ImagenComprimidaeating-insects-food-to-feed-people-and-help-the-environment,csv:1,0171363353729248:0,83984375
+ImagenComprimidaEid-Healthy-Cow-Photos,csv:0,9703218936920166:0,0078125
+ImagenComprimidafd762dfb1e6ed0d3865df0097fa41ca42dbbbac7,csv:0,9191689491271973:0,0
+ImagenComprimidafeatured-image-MAIN-GEA-M-brush-c-no-credit,csv:0,9649958610534668:0,0
+ImagenComprimidafile-20170619-12412-ihxeqe,csv:0,9921302795410156:0,0
+ImagenComprimidaFile-Attachment-housecow-herd1-1200px-1024x768-1 (1),csv:1,0257723331451416:2,98046875
+ImagenComprimidaFile-Attachment-housecow-herd1-1200px-1024x768-1,csv:1,020843505859375:2,19140625
+ImagenComprimidaFrBeI_CzZOSiBVzLaJ7cN-BUEP9JEUVcUIZVf_g4VCw,csv:1,4775912761688232:100,1875
+ImagenComprimidafromthe1990s,csv:0,9443113803863525:-2,33984375
+ImagenComprimidafunny-cow-adobestock_177259529,csv:0,6380460262298584:0,1796875
+ImagenComprimidagallery-1497548706-brown-cow-chocolate-milk (1),csv:1,7222440242767334:-0,01953125
+ImagenComprimidagallery-1497548706-brown-cow-chocolate-milk (2),csv:1,6977155208587646:-0,0078125
+ImagenComprimidagallery-1497548706-brown-cow-chocolate-milk,csv:1,2688558101654053:0,0
+ImagenComprimidaGettyImages-1228862688,csv:0,9218568801879883:0,0
+ImagenComprimidagettyimages-168262649-612x612,csv:1,2727253437042236:0,0
+ImagenComprimidaGettyImages-172358671-1409cde,csv:0,9208223819732666:0,0
+ImagenComprimidaGettyImages-504037003-daca40c,csv:1,6814138889312744:0,0
+ImagenComprimidaGettyImages-591712165-cda012a,csv:0,9557490348815918:0,0
+ImagenComprimidaGettyImages-646927000-380a949,csv:0,9217162132263184:0,0
+ImagenComprimidagettyimages-906635620-612x612,csv:0,9359338283538818:0,0
+ImagenComprimidagrass-fed-vs-grain-fed-beef-1296x728-feature (1),csv:1,049201488494873:3,5390625
+ImagenComprimidagrass-fed-vs-grain-fed-beef-1296x728-feature (2),csv:1,0477869510650635:3,9609375
+ImagenComprimidagrass-fed-vs-grain-fed-beef-1296x728-feature,csv:1,0426950454711914:3,31640625
+ImagenComprimidahappy-cows_6_housed-dairy-cows,csv:1,225773811340332:14,875
+ImagenComprimidahappycows-herobg-new,csv:1,1107232570648193:0,62890625
+ImagenComprimidaHappyCows_Cow,csv:0,9618625640869141:3,6953125
+ImagenComprimidahealthy-cow-mountains-well-fed-pasture-selective-focus-41072271,csv:0,9639625549316406:0,125
+ImagenComprimidahealthy-cow,csv:1,2903006076812744:0,0
+ImagenComprimidahealthy-cows (Case Conflict),csv:0,9217424392700195:0,02734375
+ImagenComprimidahealthy-cows-grass-fed,csv:1,6706714630126953:0,0
+ImagenComprimidaHealthy-Cows,csv:1,0212395191192627:-0,98828125
+ImagenComprimidahealthy-happy,csv:0,9668638706207275:0,0
+ImagenComprimidaHealthy-Jungle-Cow-Photos-And-Pictures,csv:0,8939723968505859:0,0
+ImagenComprimidaHealthy_Way_Dairy_Jersey_Standing,csv:0,9839379787445068:0,0
+ImagenComprimidaHereford-cow-calf,csv:0,6524522304534912:2,79296875
+ImagenComprimidahereford,csv:1,1828534603118896:7,1796875
+ImagenComprimidaHF38492-Weeks-Dundee-Anika-1024x731,csv:1,025078296661377:0,1796875
+ImagenComprimidahf_in_der_rhon_auf_der_weide_02,csv:0,9048662185668945:0,0078125
+ImagenComprimidaHolstein-2 (1),csv:0,9403042793273926:0,01953125
+ImagenComprimidaHolstein-2,csv:0,9578893184661865:0,0
+ImagenComprimidaholstein-calf_649a0428-teaser-and-homepage (1),csv:1,027346134185791:1,2578125
+ImagenComprimidaholstein-calf_649a0428-teaser-and-homepage,csv:1,026892900466919:1,2578125
+ImagenComprimidaHolstein_Friesian_UK_Yorkshire_July_2011,csv:1,8925094604492188:92,09375
+ImagenComprimidahornlesscowsdsc0774-10,csv:1,5417490005493164:51,12109375
+ImagenComprimidahttps___s3-ap-northeast-1,csv:1,0618300437927246:64,44921875
+ImagenComprimidahttp___com,csv:0,9020586013793945:0,12109375
+ImagenComprimidaimage (1),csv:1,117844581604004:0,91015625
+ImagenComprimidaimage,csv:1,231044054031372:21,47265625
+ImagenComprimidaimages (1),csv:1,6171610355377197:0,01953125
+ImagenComprimidaimages (10),csv:1,645155668258667:0,0
+ImagenComprimidaimages (11),csv:1,6638712882995605:0,0
+ImagenComprimidaimages (2),csv:1,6366612911224365:0,0
+ImagenComprimidaimages (3),csv:1,669445514678955:0,0
+ImagenComprimidaimages (4),csv:1,6072256565093994:0,0
+ImagenComprimidaimages (5),csv:1,6383295059204102:0,015625
+ImagenComprimidaimages (6),csv:1,6443300247192383:0,0
+ImagenComprimidaimages (7),csv:1,6234979629516602:0,0
+ImagenComprimidaimages (8),csv:1,6153192520141602:0,0
+ImagenComprimidaimages (9),csv:1,6593339443206787:0,0
+ImagenComprimidaimages,csv:1,6314244270324707:0,0
+ImagenComprimidaimg,csv:0,9567000865936279:0,07421875
+ImagenComprimidaIMG_0773,csv:0,895599365234375:-1,2421875
+ImagenComprimidaIMG_1287-Walz-resized,csv:1,0967419147491455:10,65625
+ImagenComprimidaimg_5187,csv:1,0785017013549805:1,26953125
+ImagenComprimidaIMG_6358 Walz,csv:1,120100736618042:11,5390625
+ImagenComprimidainsure-your-cow-moolah-960x540,csv:0,9307248592376709:0,01953125
+ImagenComprimidaInternetofcows,csv:1,0123770236968994:0,46484375
+ImagenComprimidaistock-125559474-1,csv:0,9025697708129883:0,08203125
+ImagenComprimidaiStock-176710108,csv:1,2431864738464355:20,0859375
+ImagenComprimidaiStock-502605347_emholk-1-668x336-1564757931,csv:0,8720526695251465:-0,0078125
+ImagenComprimidaistockphoto-956944426-612x612,csv:1,2780954837799072:0,0078125
+ImagenComprimidaiStock_80761381_MEDIUM_opt-770x462,csv:0,8961310386657715:0,0
+ImagenComprimidajapanese-cow,csv:1,0188448429107666:0,0
+ImagenComprimidaJo-Anne-McArthur-Cows-Resized-5-1-of-1-1600x1200,csv:1,2834923267364502:18,34765625
+ImagenComprimidaKiwi-start-up-pioneers-collar-for-remote-controlled-cows,csv:0,8916957378387451:-1,1875
+ImagenComprimidaknickers_the_cow,csv:1,0916666984558105:18,234375
+ImagenComprimidako-kalv-ihop-300px,csv:1,6731617450714111:0,01953125
+ImagenComprimidakoe-2,csv:1,0881679058074951:19,546875
+ImagenComprimidalodoen-cow-calf-resize-scaled,csv:0,7175426483154297:16,5
+ImagenComprimidaMade+By+Cow+Jersey+Cow,csv:1,0742573738098145:12,04296875
+ImagenComprimidaMad_cow-800x450,csv:1,0095913410186768:-0,98046875
+ImagenComprimidaMagazine58a4fa712bbac_15022017,csv:0,8796725273132324:0,0078125
+ImagenComprimidamaxresdefault (1),csv:1,0464835166931152:0,10546875
+ImagenComprimidamaxresdefault,csv:1,1349053382873535:0,05078125
+ImagenComprimidamaxresdefault2,csv:1,1034157276153564:-0,00390625
+ImagenComprimidaMA_00004766_jtflgh,csv:0,698591947555542:10,4765625
+ImagenComprimidamerlin_178390479_e308b149-c560-4850-9b95-8851f7086a74-articleLarge,csv:0,9504499435424805:-0,02734375
+ImagenComprimidaMini-cow-1200x1200,csv:1,115598201751709:11,703125
+ImagenComprimidaMOMM_web-assets_click-thru-header_1280x720_blog_are-cows-friendly-1024x576,csv:0,964486837387085:0,18359375
+ImagenComprimidaNiacin pic (1),csv:1,1291112899780273:9,1015625
+ImagenComprimidaNiacin pic,csv:1,1395845413208008:9,0546875
+ImagenComprimidaNurse-cow,csv:0,7933216094970703:6,57421875
+ImagenComprimidaOIP,csv:0,9052588939666748:0,0078125
+ImagenComprimidaoriginal,csv:0,8922457695007324:-0,00390625
+ImagenComprimidap0686krr,csv:0,9113907814025879:0,0
+ImagenComprimidaP1050419,csv:0,8944404125213623:0,0
+ImagenComprimidapet-cow_Gunilla-G-Flickr,csv:0,940624475479126:0,0
+ImagenComprimidaPeters_cow,csv:0,9245915412902832:0,0
+ImagenComprimidapexels-photo-2647053,csv:1,6719930171966553:0,0
+ImagenComprimidapexels-photo-422218,csv:1,68849515914917:0,0
+ImagenComprimidapexels-photo-735967,csv:0,6365981101989746:9,28515625
+ImagenComprimidaphoto-1446960040713-06c33df11426,csv:1,149655818939209:-0,0546875
+ImagenComprimidaphoto-1525770925728-edaeaafd40dc,csv:0,960087776184082:-1,1015625
+ImagenComprimidaphoto-1546445317-29f4545e9d53,csv:1,1492903232574463:8,7421875
+ImagenComprimidaphoto-1564085352725-08da0272627d,csv:1,0983664989471436:4,9765625
+ImagenComprimidaphoto-1565374587496-47cbe44e2653,csv:1,036543607711792:0,01953125
+ImagenComprimidaphoto-1570042225831-d98fa7577f1e,csv:1,0262212753295898:-1,14453125
+ImagenComprimidaphoto-1582462458538-5a094f9f3802,csv:0,9592492580413818:0,01953125
+ImagenComprimidaphoto-1590264815175-63ff41426aa2,csv:0,967689037322998:0,0
+ImagenComprimidaphoto-1595365691689-6b7b4e1970cf,csv:1,0477268695831299:3,21875
+ImagenComprimidaphoto-1602027833189-514f188261d8,csv:0,9536838531494141:0,0
+ImagenComprimidaportrait-of-cow-standing-in-pasture-248337-1,csv:1,0529751777648926:0,66796875
+ImagenComprimidaprolapse-article-landscape,csv:1,0005269050598145:0,0
+ImagenComprimidapublic-drum_basic_article-103914-main_images-cow_0--default--620,csv:0,9184913635253906:0,0
+ImagenComprimidaquotacowisne,csv:0,9068262577056885:0,0
+ImagenComprimidar0_114_2240_1374_w1200_h678_fmax,csv:0,9987695217132568:0,0
+ImagenComprimidaRainbow-Acres-cow,csv:0,8791344165802002:0,0
+ImagenComprimidaramona,csv:1,0622432231903076:0,0
+ImagenComprimidaRandall-Lineback-Cows-4096x2720,csv:1,5521738529205322:80,0
+ImagenComprimidarazas-vacas-leche,csv:0,8867292404174805:1,4375
+ImagenComprimidaRed-and-White-Holstein-Cow-1080x771-1024x731,csv:0,9778516292572021:10,23046875
+ImagenComprimidarlak4li4_cow-generic-pixabay_625x300_08_August_18,csv:1,6729645729064941:0,01953125
+ImagenComprimidarq6gq7ecaxrrugejmfgy,csv:0,8713550567626953:0,01953125
+ImagenComprimidaRTS1X001-e1581779394827,csv:1,6427733898162842:0,0
+ImagenComprimidaRuminating-and-lying-cow-header-1280x687,csv:0,9630060195922852:1,37890625
+ImagenComprimidasab_tc-bovine-699d87db3394a42a981f3fc4e7086e4d7bbe1d83-s800-c85,csv:0,9120168685913086:0,1875
+ImagenComprimidaSAB_Tc_Bovine,csv:0,6457962989807129:2,796875
+ImagenComprimidaScience_CRISPR_DSC_0353-(2),csv:1,0680952072143555:26,01171875
+ImagenComprimidasd5ds-e1563536255497,csv:1,1050682067871094:-1,05078125
+ImagenComprimidashutterstock_1224061210-scaled,csv:0,682157039642334:14,5859375
+ImagenComprimidashutterstock_533100223-scaled (1),csv:0,6994762420654297:13,75
+ImagenComprimidashutterstock_533100223-scaled,csv:0,696892499923706:13,984375
+ImagenComprimidasmiling-cow-over-sky-background-260nw-45044653,csv:1,6498324871063232:-0,01953125
+ImagenComprimidastock-photo-large-and-healthy-cow-on-field-81440485,csv:0,6882612705230713:0,38671875
+ImagenComprimidastock-photo-two-dairy-cows-stand-in-a-pasture-two-dairy-cows-two-curious-and-healthy-dairy-cows-102725264,csv:1,2448768615722656:13,09765625
+ImagenComprimidaStray-cattle_PTI_file_22102019,csv:0,8854849338531494:0,03125
+ImagenComprimidaTELEMMGLPICT000143969626_trans_NvBQzQNjv4BqDKGDQpemwFDOZcDYGh2bvgabHNDKKjNFhT9njmcUO7U,csv:0,6552608013153076:10,4921875
+ImagenComprimidaThe-cow-favors-natural-over-synthetic-vitamin-E,csv:0,8854248523712158:-0,0234375
+ImagenComprimidathese-face-masks-for-cows-have-nothing-to-do-with-coronavirus,csv:1,0148465633392334:3,1484375
+ImagenComprimidatransition-cow-og,csv:1,075655221939087:0,0
+ImagenComprimidatwo-cows-calf,csv:0,6929440498352051:1,03125
+ImagenComprimidaTXA200201-FebBlogs-Farm-1280x720,csv:1,0371472835540771:0,52734375
+ImagenComprimidatypes-of-cows-june192020-min,csv:0,9565515518188477:0,015625
+ImagenComprimidaTZAHAM-erezbit0006,csv:1,2778167724609375:0,0
+ImagenComprimidaunnamed (1),csv:1,2916066646575928:0,0
+ImagenComprimidaunnamed (2),csv:0,8710594177246094:0,0
+ImagenComprimidaunnamed (3),csv:1,7053773403167725:0,0
+ImagenComprimidaunnamed,csv:1,2852325439453125:0,0
+ImagenComprimidauplace-history-agriculture-animals-livestock-cows-ethic (1),csv:0,9581584930419922:21,18359375
+ImagenComprimidauplace-history-agriculture-animals-livestock-cows-ethic (2),csv:0,9911782741546631:25,07421875
+ImagenComprimidauplace-history-agriculture-animals-livestock-cows-ethic,csv:0,9506335258483887:22,81640625
+ImagenComprimidavet_fallbacks_subject_farm-animal-calf,csv:0,9378662109375:10,38671875
+ImagenComprimidaWalz Cow Calf RESIZED IMG_1880,csv:1,2027215957641602:9,76953125
+ImagenComprimidaWalz-Resized-Cow-Calf-grass-IMG_5581,csv:0,7129731178283691:0,5859375
+ImagenComprimidaWeSellBose4708-1stcomp,GC-IAStateDelcoClassic2020,csv:0,8412692546844482:4,64453125
+ImagenComprimidawhat-i-want-in-the-perfect-beef-cow,csv:0,6915764808654785:2,01171875
+ImagenComprimidaWhite-cow-TB-Hub-scaled,csv:0,7778162956237793:13,0
+ImagenComprimidaWL2WLOEUMZAALHMNC6ZLIXPQCI,csv:1,1167800426483154:1,5390625
+ImagenComprimidaWorld-s-first-GE-cow-is-a-milestone-study_wrbm_large,csv:0,9193360805511475:0,0
+ImagenComprimidawright-place-cow-alertys-us,csv:0,9112682342529297:0,09765625
+ImagenComprimidawUsqoWpusy5u3dwuabvQBZ-320-80,csv:1,6592507362365723:0,0
+ImagenComprimidayoutube_healthy-cows-are-happy-cows_v2,csv:0,905686616897583:2,5546875
+ImagenComprimida_110661320_4-sruc-dairy-cow,csv:1,2356219291687012:1,6328125
+ImagenComprimida_114587591_gettyimages-676894393,csv:1,0267245769500732:-0,00390625
+ImagenComprimida_K6A0213,csv:1,015310525894165:-0,00390625
+ImagenComprimida__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__01__cow-in-pasture-990e51c0b8da4e839195b85ca92aed9f,csv:1,0938661098480225:0,0
+ImagenComprimida__opt__aboutcom__coeus__resources__content_migration__mnn__images__2017__01__cows-laying-down-39d618dc4a7340d484f5cfc6adbacbbc,csv:0,9655933380126953:0,0
